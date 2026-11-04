@@ -1,0 +1,21 @@
+{
+  "version": "0.8.0-D.4",
+  "notes": "BYS Ofis 0.8.0-D.4: otomatik guncelleme duzeltildi ve imzali (Windows + Linux, tek yayin deposu YKTERA-Releases); sohbet artik gercek ajan: hafizaya bakip kaynakli cevap verir, ezber sablon yok; kapi sertlestirme ve token sizintisi kapatildi; arac kurma izin listesi ve zip denetimi; tarayici URL ve profil ayrimi; dongu saglamligi (atomik yazma, kilit, panik kaydi) ve disk temizligi. D.3 kullanicilari D.4'u bir kez elle kurar; sonrasi otomatik.",
+  "pub_date": "2026-11-04T22:55:34.306817+00:00",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_x64-setup.exe",
+      "sha256": "3a11271ac4f6048c470821b27c1915db10e44bbb5024dfa67f9bee6b0802d350",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_x64-portatif.zip",
+      "sha256_zip": "b04fce61e8bbb0b2341fd3a10410a6904be02f100826d3eeb01754854577ecee"
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_linux-x64.tar.gz",
+      "sha256": "f6ff1026375cbc648aa6102375b68b98cf0396cb1ea22fd9a50d2770fa74a63c",
+      "url_deb": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/bys-ofis_0.8.0-D.4_amd64.deb",
+      "sha256_deb": "d05768504855040a9d127e11260f14309b41182b95d40fee01a76f33bcb25537"
+    }
+  },
+  "app": "bysofis",
+  "imza": "1476e30564eac47355fe75ef7bf890eae234c8d3e27bcac263e0fbd87100d673d990ce4051c128187c71118a71c18e6e242ef003b81bdbaaba465d7ba5a94f00"
+}

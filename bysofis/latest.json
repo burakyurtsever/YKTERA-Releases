@@ -1,21 +1,21 @@
 {
-  "version": "0.8.0-D.4",
-  "notes": "BYS Ofis 0.8.0-D.4: otomatik guncelleme duzeltildi ve imzali (Windows + Linux, tek yayin deposu YKTERA-Releases); sohbet artik gercek ajan: hafizaya bakip kaynakli cevap verir, ezber sablon yok; kapi sertlestirme ve token sizintisi kapatildi; arac kurma izin listesi ve zip denetimi; tarayici URL ve profil ayrimi; dongu saglamligi (atomik yazma, kilit, panik kaydi) ve disk temizligi. D.3 kullanicilari D.4'u bir kez elle kurar; sonrasi otomatik.",
-  "pub_date": "2026-11-04T22:55:34.306817+00:00",
+  "version": "0.8.0-D.5",
+  "notes": "BYS Ofis 0.8.0-D.5: arayuz performansi (kart onbellegi, olay debounce, terminal paneli sanallastirma: yenileme ~12 sn -> ~0,3 sn), guncelleme uretim yolu uctan uca testleri ve sayisal D.N surum karsilastirmasi.",
+  "pub_date": "2026-11-04T23:39:51.099318600+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_x64-setup.exe",
-      "sha256": "3a11271ac4f6048c470821b27c1915db10e44bbb5024dfa67f9bee6b0802d350",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_x64-portatif.zip",
-      "sha256_zip": "b04fce61e8bbb0b2341fd3a10410a6904be02f100826d3eeb01754854577ecee"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.5/BYS-Ofis_0.8.0-D.5_x64-setup.exe",
+      "sha256": "588a4128ac4bbaa6f5bd691ab7ef1d9c0e1fbf00fc0e6f018c60dbcc70646ba9",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.5/BYS-Ofis_0.8.0-D.5_x64-portatif.zip",
+      "sha256_zip": "68bf29ac441f7e5aa2db7552f4dc9364b9961eec88a46eec390ed4c7f9ee8234"
     },
     "linux-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/BYS-Ofis_0.8.0-D.4_linux-x64.tar.gz",
-      "sha256": "f6ff1026375cbc648aa6102375b68b98cf0396cb1ea22fd9a50d2770fa74a63c",
-      "url_deb": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.4/bys-ofis_0.8.0-D.4_amd64.deb",
-      "sha256_deb": "d05768504855040a9d127e11260f14309b41182b95d40fee01a76f33bcb25537"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.5/BYS-Ofis_0.8.0-D.5_linux-x64.tar.gz",
+      "sha256": "01d22c8b2c7b7048a9003771cc966969fb3b6b41267215e294efaa6e061dbc7e",
+      "url_deb": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.0-D.5/bys-ofis_0.8.0-D.5_amd64.deb",
+      "sha256_deb": "ed4bccd31dcf2edeac316a9a6015a947cfc8f3631ef4467e6876b1f09633c463"
     }
   },
   "app": "bysofis",
-  "imza": "1476e30564eac47355fe75ef7bf890eae234c8d3e27bcac263e0fbd87100d673d990ce4051c128187c71118a71c18e6e242ef003b81bdbaaba465d7ba5a94f00"
+  "imza": "83c2203dee3f82e0df3f62a228f24b81a62f1a049b4c7b6a1de8b688fcc8139b83d3adba6d68f78f1466022a1975640b14da238ce2fa9e171cee753701f4e403"
 }

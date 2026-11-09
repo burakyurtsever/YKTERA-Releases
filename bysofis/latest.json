@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.2",
-  "notes": "BYS Ofis 0.8.1-D.2 (test): Faz 2. Projede ortak calisma ac/kapat ve kart-makine eslesmesi (G5). Kurulum betigi uretimi: proje aktar / PC bagla (G6). Proje ilerleme paneli, donanim is plani sablonu ve kickoff soru seti (G8). Mekanik arac zinciri (build123d/FreeCAD) ve CMake + GCC-ARM firmware hazirligi (G9a). Teslim paketi, kota yonlendirme, ozet, derleme hizi olcumu (G10). PC devri: makine devret --tam, kur --katil sonrasi otomatik devir (G13). Planlayici madde kaybi: otomatik ikinci gorev, ozet-kart tutarliligi (G14). Tahmini sure hesabi, gercek sure kaydi, kritik yol (G15a). Tarayici sekmesi otomatik ac/baglan, Tekrar dene (G16). Uygulama yoneticisi takip turu: olu makine devri, KISMI tekrar, cevapsiz mesaj, Tahta bildirimi (G17). Calisan supurme taramalari hizlandi. Yalniz Windows.",
-  "pub_date": "2026-11-08T18:36:01.103172500+00:00",
+  "version": "0.8.1-D.3",
+  "notes": "BYS Ofis 0.8.1-D.3 (test): Faz 3. Pilot skill dogrulama (G9b). PCB sifirdan (deneysel), is turu katalogu, kendini gelistiren dongu (G11). Uygulama yoneticisi yanlis alarmlari: disk esigi orani, bekletilen kart, toplu sinir nedeni (G20). Ikinci entegrasyon: otopilot proje akisi (G7), giris yok hatasi ve bosluklu kullanici yolu (G12), Tahta ve proje sayfasinda tahmini sure (G15b), makineden bagimsiz arayuz testleri (G18), otopilot onay akisi (G23), Makineler tablosunda Kaldir. Yalniz Windows.",
+  "pub_date": "2026-11-09T04:52:06.611897800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.2/BYS-Ofis_0.8.1-D.2_x64-setup.exe",
-      "sha256": "38641ee94809d896074f9e1407eb44fab3c60466bc02c791873265e9bd505d83",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.2/BYS-Ofis_0.8.1-D.2_x64-portatif.zip",
-      "sha256_zip": "e0aa5d1e4ba8525181c179c2207e9e510fc9549b9fa9e09c4254969176381673"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.3/BYS-Ofis_0.8.1-D.3_x64-setup.exe",
+      "sha256": "ffbf2c91cc4ff16cf74486bf78c6626f9b8c74b698aac8a38c70ad07eb065096",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.3/BYS-Ofis_0.8.1-D.3_x64-portatif.zip",
+      "sha256_zip": "a99f66a8b1fe12671df74804abdd6fe98aa1499decaca9b7800cb2306570ed66"
     }
   },
   "app": "bysofis",
-  "imza": "4e9c8e909f7986e848beb7d6d6cb2e46009acc2905f1215341b93e52f0c26d6e496f8a04f6ddb095d59c02318500a96fbb65aae15205562076fce67c5000c604"
+  "imza": "2ac96a782e533d15bbcb8e9eb0504d044e35b5906b4c29567310e37cdea3f3bf4de0a06e9769098480cfccae47de51cadce12c22e853c717dcc844bbcfeb4707"
 }

@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.4",
-  "notes": "0.8.1-D.4: akis revizyonu (AJ-144..148): uygulama yoneticisi cozer, tek birlestirme kuyrugu, kaynaga gore paralellik, otomatik guncelleme, kapi guvenligi, gizlilik, Antigravity onceligi.",
-  "pub_date": "2026-11-10T02:48:25.921634400+00:00",
+  "version": "0.8.1-D.5",
+  "notes": "",
+  "pub_date": "2026-11-10T07:30:37.475495800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.4/BYS-Ofis_0.8.1-D.4_x64-setup.exe",
-      "sha256": "adfe30f97774426722b2be475bcb4056ffea3cac615027ab2f4912df98a9ee82",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.4/BYS-Ofis_0.8.1-D.4_x64-portatif.zip",
-      "sha256_zip": "9cd1383f811b4d0501564d6e3b9006fd35fbfdf3cf9d51f72ed1901490f10245"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.5/BYS-Ofis_0.8.1-D.5_x64-setup.exe",
+      "sha256": "66d34133323d2d45177fa3bdb812cb2948388dc0845a7f81311a8a163ab8b136",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.5/BYS-Ofis_0.8.1-D.5_x64-portatif.zip",
+      "sha256_zip": "7485e74a82dec9faef58c03187e7ad34b87a5975150355195dd350c0e7a32a66"
     }
   },
   "app": "bysofis",
-  "imza": "f8a1ae72d8e07d71631e756914dc41afc0d228bbff6424e13ace38333088591dfd05538d84b6625f84714cc5c59a84e29be8949231fa52af8c0e050042b31b0f"
+  "imza": "ea516162353911cdf85182a6828f8f29026ff83b5d03e407cb22e912c350fad7dfba11f21fc684fbd1a95386916f61a7dbacfcf787863c99ea21dbae5baeec04"
 }

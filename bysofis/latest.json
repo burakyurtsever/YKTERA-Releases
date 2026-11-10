@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.10",
+  "version": "0.8.1-D.11",
   "notes": "",
-  "pub_date": "2026-11-10T15:05:21.102532500+00:00",
+  "pub_date": "2026-11-10T16:41:48.780296400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.10/BYS-Ofis_0.8.1-D.10_x64-setup.exe",
-      "sha256": "8fa5884dbd219cdece19fdcca9c049f1ddcd6e573b93b6d198b61789ac4c9d29",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.10/BYS-Ofis_0.8.1-D.10_x64-portatif.zip",
-      "sha256_zip": "68ac1eee6ae0cf3c65418c56a5c85bd1d00f37915d65d9631523684d42e9587e"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.11/BYS-Ofis_0.8.1-D.11_x64-setup.exe",
+      "sha256": "154ca119a00e44be178a8cfbe409fa88fc11413c0daf7398b8be9a457afe0ed8",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.11/BYS-Ofis_0.8.1-D.11_x64-portatif.zip",
+      "sha256_zip": "552ab8e475f9bdb14b1302fb9ef4ff161bed4f29a1412f89c063dc5fcf8cd607"
     }
   },
   "app": "bysofis",
-  "imza": "05edefca85e5cf54f3d29919a4bfb2c7151cefd1f880aa1c3612ec5a9fdc8bdcfc1b6e8b28d3b7219b083caa66fa7bf822e9bd87426098c3a86bd1b0af02e70c"
+  "imza": "3a6d978a4f6601780a7437f5853b2659a5296ed558af3da9c8e7119b2ac6815319cdfd5f5c07feb73dfa7c4b9b70c1b459f73341c7fa78b1cc91d35630965304"
 }

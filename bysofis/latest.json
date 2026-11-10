@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.3",
-  "notes": "BYS Ofis 0.8.1-D.3 (test): Faz 3. Pilot skill dogrulama (G9b). PCB sifirdan (deneysel), is turu katalogu, kendini gelistiren dongu (G11). Uygulama yoneticisi yanlis alarmlari: disk esigi orani, bekletilen kart, toplu sinir nedeni (G20). Ikinci entegrasyon: otopilot proje akisi (G7), giris yok hatasi ve bosluklu kullanici yolu (G12), Tahta ve proje sayfasinda tahmini sure (G15b), makineden bagimsiz arayuz testleri (G18), otopilot onay akisi (G23), Makineler tablosunda Kaldir. Yalniz Windows.",
-  "pub_date": "2026-11-09T04:52:06.611897800+00:00",
+  "version": "0.8.1-D.4",
+  "notes": "0.8.1-D.4: akis revizyonu (AJ-144..148): uygulama yoneticisi cozer, tek birlestirme kuyrugu, kaynaga gore paralellik, otomatik guncelleme, kapi guvenligi, gizlilik, Antigravity onceligi.",
+  "pub_date": "2026-11-10T02:48:25.921634400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.3/BYS-Ofis_0.8.1-D.3_x64-setup.exe",
-      "sha256": "ffbf2c91cc4ff16cf74486bf78c6626f9b8c74b698aac8a38c70ad07eb065096",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.3/BYS-Ofis_0.8.1-D.3_x64-portatif.zip",
-      "sha256_zip": "a99f66a8b1fe12671df74804abdd6fe98aa1499decaca9b7800cb2306570ed66"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.4/BYS-Ofis_0.8.1-D.4_x64-setup.exe",
+      "sha256": "adfe30f97774426722b2be475bcb4056ffea3cac615027ab2f4912df98a9ee82",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.4/BYS-Ofis_0.8.1-D.4_x64-portatif.zip",
+      "sha256_zip": "9cd1383f811b4d0501564d6e3b9006fd35fbfdf3cf9d51f72ed1901490f10245"
     }
   },
   "app": "bysofis",
-  "imza": "2ac96a782e533d15bbcb8e9eb0504d044e35b5906b4c29567310e37cdea3f3bf4de0a06e9769098480cfccae47de51cadce12c22e853c717dcc844bbcfeb4707"
+  "imza": "f8a1ae72d8e07d71631e756914dc41afc0d228bbff6424e13ace38333088591dfd05538d84b6625f84714cc5c59a84e29be8949231fa52af8c0e050042b31b0f"
 }

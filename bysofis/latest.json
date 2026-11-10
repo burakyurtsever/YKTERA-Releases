@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.8",
-  "notes": "D.8: rol/skill her zaman gomulu taban (dongu app yolu ev ayarindan), gecici icerik klasoru kendini onarir, surec canlilik kontrolu; kart araclari depo disina (HLD-AJS-0423).",
-  "pub_date": "2026-11-10T12:03:38.736776300+00:00",
+  "version": "0.8.1-D.9",
+  "notes": "",
+  "pub_date": "2026-11-10T14:40:10.537965600+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.8/BYS-Ofis_0.8.1-D.8_x64-setup.exe",
-      "sha256": "c01a367460b5fed328daca3709ba1146e9ad64fe4aa087822a2f9e300fdb3567",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.8/BYS-Ofis_0.8.1-D.8_x64-portatif.zip",
-      "sha256_zip": "84336349d0bc8caac5849b0bd6b6823ccf470eed0bfe9c656f98566cc47ef28c"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.9/BYS-Ofis_0.8.1-D.9_x64-setup.exe",
+      "sha256": "c8a5247f18d8c60897983062a0761eea74ef7562b7379ba397a7bec4871c06be",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.9/BYS-Ofis_0.8.1-D.9_x64-portatif.zip",
+      "sha256_zip": "aebd1d58cca2c3185b38998f4373cb0babd40830f11028bd800a1f4cdb42c0d9"
     }
   },
   "app": "bysofis",
-  "imza": "8dbdc9b04773703eb9037d919172f6e438358bc19cda0a9a292cf7c1ac9d227640e78543388d3b49015bba198054c3eb5525b20cad75f8a546be0183013fbd01"
+  "imza": "ab1d5752e717ccefc8df179f34482c607550987b23439c66e6b170ad93952825395c4087294be7ff343abb6bfeae17b0ac1552e58ad30038903bc490ed17110a"
 }

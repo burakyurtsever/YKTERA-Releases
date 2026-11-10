@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.5",
-  "notes": "",
-  "pub_date": "2026-11-10T07:30:37.475495800+00:00",
+  "version": "0.8.1-D.6",
+  "notes": "D.6: rol tanimi gomulu (K1), kaynak semaforu yorum (K2), derleme klasoru yonetimi (K3), takilan karta recete (K4), butce kapisi dar cozum (K5), gorev kutusu tarama (K6), kucuk duzeltmeler (K7)",
+  "pub_date": "2026-11-10T09:15:21.703802500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.5/BYS-Ofis_0.8.1-D.5_x64-setup.exe",
-      "sha256": "66d34133323d2d45177fa3bdb812cb2948388dc0845a7f81311a8a163ab8b136",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.5/BYS-Ofis_0.8.1-D.5_x64-portatif.zip",
-      "sha256_zip": "7485e74a82dec9faef58c03187e7ad34b87a5975150355195dd350c0e7a32a66"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.6/BYS-Ofis_0.8.1-D.6_x64-setup.exe",
+      "sha256": "d63ba59bceb51dc2549714d048997e69e456a908151a65fe5898af186555a887",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.6/BYS-Ofis_0.8.1-D.6_x64-portatif.zip",
+      "sha256_zip": "45505ec2ca7f86219e7449a9d10ddb4560c0c231a4518c4b0040ccd89bda3324"
     }
   },
   "app": "bysofis",
-  "imza": "ea516162353911cdf85182a6828f8f29026ff83b5d03e407cb22e912c350fad7dfba11f21fc684fbd1a95386916f61a7dbacfcf787863c99ea21dbae5baeec04"
+  "imza": "31156e7f300366cb2bbb273ef8349119a8e042a8aa324a0937b2be672e9b38c7833cadb7e5a30b2be4142533b4d55703ef66468aec2fadf98ee6f174273d180b"
 }

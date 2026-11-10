@@ -1,15 +1,15 @@
 {
-  "version": "0.8.1-D.7",
-  "notes": "D.7: Telegram yalniz gercek takilma/UAC/sert fren; gorev kutusu dongusu kirildi; gomulu kart sablonu/rol/skill; guncelleme bosaltma, hemen denetim, kurulum yeniden deneme; disk temizligi her modda; KAPSAM recetesi.",
-  "pub_date": "2026-11-10T10:39:09.616244500+00:00",
+  "version": "0.8.1-D.8",
+  "notes": "D.8: rol/skill her zaman gomulu taban (dongu app yolu ev ayarindan), gecici icerik klasoru kendini onarir, surec canlilik kontrolu; kart araclari depo disina (HLD-AJS-0423).",
+  "pub_date": "2026-11-10T12:03:38.736776300+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.7/BYS-Ofis_0.8.1-D.7_x64-setup.exe",
-      "sha256": "87aa3b4c6351743b6bf795ce8336d4b20e534abb88f19ba797695b64da872315",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.7/BYS-Ofis_0.8.1-D.7_x64-portatif.zip",
-      "sha256_zip": "72cb797aef88bd3b0e3035d868a876efad1b0ffefef5872c068cb9ffa9eeaca4"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.8/BYS-Ofis_0.8.1-D.8_x64-setup.exe",
+      "sha256": "c01a367460b5fed328daca3709ba1146e9ad64fe4aa087822a2f9e300fdb3567",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.1-D.8/BYS-Ofis_0.8.1-D.8_x64-portatif.zip",
+      "sha256_zip": "84336349d0bc8caac5849b0bd6b6823ccf470eed0bfe9c656f98566cc47ef28c"
     }
   },
   "app": "bysofis",
-  "imza": "4c7a50fe5ed0b0fa1ef21dfe2b4af975bfa08ad7b0d8f8ff3726e73169c831496bd48937e89aa49d2b50300b67f2d46f2bc0523d861b69a24b2528d74372320a"
+  "imza": "8dbdc9b04773703eb9037d919172f6e438358bc19cda0a9a292cf7c1ac9d227640e78543388d3b49015bba198054c3eb5525b20cad75f8a546be0183013fbd01"
 }

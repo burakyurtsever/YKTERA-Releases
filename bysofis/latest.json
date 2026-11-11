@@ -1,15 +1,15 @@
 {
-  "version": "0.8.3-D.21",
-  "notes": "Kart hatti: gecici nedenle onaya birakilan kart neden kalkinca kendiliginden birlesir; testcinin Godot .import yan dosyalari geri alinir; modelin yanina cikarilan dokular kart sinirina takilmaz",
-  "pub_date": "2026-11-11T12:53:47.870595800+00:00",
+  "version": "0.8.3-D.22",
+  "notes": "Iki PC: is verirken PC secilir, kapali PC'ye is verilmez, bosta PC nabiz yazar, kapanan PC'nin isi orada kalir, ortak kod depolari senkron. Teslim: calisan exe durum/teslim altinda, gruba bildirilir. Isimler: Osman (Yonetici) bicimi, proje grubu kendi yoneticisi. ajans kart iptal. Port reddi Patron'a tek soru.",
+  "pub_date": "2026-11-11T15:46:18.497921700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.21/BYS-Ofis_0.8.3-D.21_x64-setup.exe",
-      "sha256": "3de46a1dec591dc5ee6dbb03067761b364eb448106676ef245cc86bff7a1ffeb",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.21/BYS-Ofis_0.8.3-D.21_x64-portatif.zip",
-      "sha256_zip": "5466efd88013fd54cc5361d6b4e61b7ab877cc6fa7660e3ee408f1cf540cc245"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.22/BYS-Ofis_0.8.3-D.22_x64-setup.exe",
+      "sha256": "33d98034e17b5acdd29153e8aa49087c2faa56e95e3cab454af3320ce81cf44e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.22/BYS-Ofis_0.8.3-D.22_x64-portatif.zip",
+      "sha256_zip": "018b5a9dd8db88644f357732131cff1f7d074a7aec037b9e821a3c4a3896370c"
     }
   },
   "app": "bysofis",
-  "imza": "92f82b54a91489a85a3cf73fda7afe1caab425e1b98b486b8941f0284a0dec1de0cd7cb8325676c48f01facbfd2a4d4274e8c28f68588cec2850878d629c5309"
+  "imza": "a71407e6e6be6d65fb057d0af5ce2cb7d9761a00a36acf58568332cfff7c5ff0003855a1bb1f88a41bffebf5e30a54a4fac1de0cbd0a55d78041fe6bff721103"
 }

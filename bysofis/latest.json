@@ -1,15 +1,15 @@
 {
-  "version": "0.8.3-D.20",
-  "notes": "Bos dalli kart testci beklemez; kur-arac adres indirmesi; Godot yan dosyalari kart sinirinda",
-  "pub_date": "2026-11-11T07:56:37.755389400+00:00",
+  "version": "0.8.3-D.21",
+  "notes": "Kart hatti: gecici nedenle onaya birakilan kart neden kalkinca kendiliginden birlesir; testcinin Godot .import yan dosyalari geri alinir; modelin yanina cikarilan dokular kart sinirina takilmaz",
+  "pub_date": "2026-11-11T12:53:47.870595800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.20/BYS-Ofis_0.8.3-D.20_x64-setup.exe",
-      "sha256": "6d84eb58db7523120acd21af3914dce9d6d32990b85c3b2f4d31e8412a90e585",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.20/BYS-Ofis_0.8.3-D.20_x64-portatif.zip",
-      "sha256_zip": "9a66f28c044f98c7d508eaa6e27fd7da3b2e93357ec9e521d46ae89f2353f744"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.21/BYS-Ofis_0.8.3-D.21_x64-setup.exe",
+      "sha256": "3de46a1dec591dc5ee6dbb03067761b364eb448106676ef245cc86bff7a1ffeb",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.21/BYS-Ofis_0.8.3-D.21_x64-portatif.zip",
+      "sha256_zip": "5466efd88013fd54cc5361d6b4e61b7ab877cc6fa7660e3ee408f1cf540cc245"
     }
   },
   "app": "bysofis",
-  "imza": "034cef7889c13ecb60dd5d26ef2e738548373ad22512303e9406c4ade22dfa70a97669fdd7baeacf1827324e826ef45681c934e7c833afe27d2502cee9289904"
+  "imza": "92f82b54a91489a85a3cf73fda7afe1caab425e1b98b486b8941f0284a0dec1de0cd7cb8325676c48f01facbfd2a4d4274e8c28f68588cec2850878d629c5309"
 }

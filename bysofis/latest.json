@@ -1,15 +1,15 @@
 {
-  "version": "0.8.2",
-  "notes": "0.8.2: arac kurulumu ajanlarda (yalniz UAC insana), autostash catisma temizligi, Gezgin klasor acma duzeltmesi",
-  "pub_date": "2026-11-11T04:39:07.832253100+00:00",
+  "version": "0.8.3-D.20",
+  "notes": "Bos dalli kart testci beklemez; kur-arac adres indirmesi; Godot yan dosyalari kart sinirinda",
+  "pub_date": "2026-11-11T07:56:37.755389400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.2/BYS-Ofis_0.8.2_x64-setup.exe",
-      "sha256": "1a4b01c843986a43b47e11bdd493b39f7d2315ecdf2df75325544a15424ece57",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.2/BYS-Ofis_0.8.2_x64-portatif.zip",
-      "sha256_zip": "d08754fd4a12442dd5442f4079e0ae2d5388572468fe771695f12fd9ec611215"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.20/BYS-Ofis_0.8.3-D.20_x64-setup.exe",
+      "sha256": "6d84eb58db7523120acd21af3914dce9d6d32990b85c3b2f4d31e8412a90e585",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.20/BYS-Ofis_0.8.3-D.20_x64-portatif.zip",
+      "sha256_zip": "9a66f28c044f98c7d508eaa6e27fd7da3b2e93357ec9e521d46ae89f2353f744"
     }
   },
   "app": "bysofis",
-  "imza": "f62b8c42c599f52d83263b8e31f761ffd2cc0c5ab9d0d5e52aea7364d3834c90f7511af3a6d248a0f56618c55d99458dd01407f2222ce33c5a99054826a5990e"
+  "imza": "034cef7889c13ecb60dd5d26ef2e738548373ad22512303e9406c4ade22dfa70a97669fdd7baeacf1827324e826ef45681c934e7c833afe27d2502cee9289904"
 }

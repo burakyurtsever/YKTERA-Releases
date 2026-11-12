@@ -1,15 +1,15 @@
 {
-  "version": "0.8.3-D.23",
-  "notes": "Bas ajan modeli: profesyonel hatli projede plan proje grubunda bas yoneticiyle sohbette konusulur; onaydan sonra her kilometre tasi tek gorev olarak kosar, kalite hakemi urunu kullanarak dener, kosan goreve gruptan canli mesaj ulasir. Kart ekrani sadelesti (ne istendi, sonuc, sirada). Profesyonel is modu: asama hatti ve Proje Defteri.",
-  "pub_date": "2026-11-12T06:19:00.132505200+00:00",
+  "version": "0.8.3-D.24",
+  "notes": "Sohbette secenekli soru: bas yonetici sorularini tiklanabilir seceneklerle sorar, tek tikla ya da yazarak cevaplanir. Kurulusta secilen oyun motoru projeye tasinir; kurulusta yazilanlar Proje Defteri'ne islenir. Bas ajan grubunda sohbet aciklamalari yeni modele gore.",
+  "pub_date": "2026-11-12T08:00:11.811674500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.23/BYS-Ofis_0.8.3-D.23_x64-setup.exe",
-      "sha256": "0f40c20036cb56fb3f6cd8e695498a0bc17f8b4a40983027bf1ea7c835409a3e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.23/BYS-Ofis_0.8.3-D.23_x64-portatif.zip",
-      "sha256_zip": "c069a2c4ac97b5629b52b27299ad2e439ead5b1b984b62bb0129ce59253d34e8"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.24/BYS-Ofis_0.8.3-D.24_x64-setup.exe",
+      "sha256": "dce2fb852453e1ff4b866a31f57cf15775018aa861d5a7ecd6fa5a2586cdcb20",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.24/BYS-Ofis_0.8.3-D.24_x64-portatif.zip",
+      "sha256_zip": "57e1e29e5751fd9608cc2e5297e11f63c72b434b51575980303db6dc414725ae"
     }
   },
   "app": "bysofis",
-  "imza": "650857a68927c3551ee40898b79fc721b3e41bae07a6294185958c7a6da080c123b7d1275233f8d2c964d470e6be13f68352901b8474fb564d5881344323f700"
+  "imza": "46452d0e2a45b67621168518b5ae075d17f8322e9395fa644e6d36ee67ebfeb3f0b40c84df15d012865b8e00468f6623780ea3b250f35a5ef3e7ff504e938f0d"
 }

@@ -1,15 +1,15 @@
 {
-  "version": "0.8.3-D.22",
-  "notes": "Iki PC: is verirken PC secilir, kapali PC'ye is verilmez, bosta PC nabiz yazar, kapanan PC'nin isi orada kalir, ortak kod depolari senkron. Teslim: calisan exe durum/teslim altinda, gruba bildirilir. Isimler: Osman (Yonetici) bicimi, proje grubu kendi yoneticisi. ajans kart iptal. Port reddi Patron'a tek soru.",
-  "pub_date": "2026-11-11T15:46:18.497921700+00:00",
+  "version": "0.8.3-D.23",
+  "notes": "Bas ajan modeli: profesyonel hatli projede plan proje grubunda bas yoneticiyle sohbette konusulur; onaydan sonra her kilometre tasi tek gorev olarak kosar, kalite hakemi urunu kullanarak dener, kosan goreve gruptan canli mesaj ulasir. Kart ekrani sadelesti (ne istendi, sonuc, sirada). Profesyonel is modu: asama hatti ve Proje Defteri.",
+  "pub_date": "2026-11-12T06:19:00.132505200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.22/BYS-Ofis_0.8.3-D.22_x64-setup.exe",
-      "sha256": "33d98034e17b5acdd29153e8aa49087c2faa56e95e3cab454af3320ce81cf44e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.22/BYS-Ofis_0.8.3-D.22_x64-portatif.zip",
-      "sha256_zip": "018b5a9dd8db88644f357732131cff1f7d074a7aec037b9e821a3c4a3896370c"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.23/BYS-Ofis_0.8.3-D.23_x64-setup.exe",
+      "sha256": "0f40c20036cb56fb3f6cd8e695498a0bc17f8b4a40983027bf1ea7c835409a3e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.23/BYS-Ofis_0.8.3-D.23_x64-portatif.zip",
+      "sha256_zip": "c069a2c4ac97b5629b52b27299ad2e439ead5b1b984b62bb0129ce59253d34e8"
     }
   },
   "app": "bysofis",
-  "imza": "a71407e6e6be6d65fb057d0af5ce2cb7d9761a00a36acf58568332cfff7c5ff0003855a1bb1f88a41bffebf5e30a54a4fac1de0cbd0a55d78041fe6bff721103"
+  "imza": "650857a68927c3551ee40898b79fc721b3e41bae07a6294185958c7a6da080c123b7d1275233f8d2c964d470e6be13f68352901b8474fb564d5881344323f700"
 }

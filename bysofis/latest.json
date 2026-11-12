@@ -1,15 +1,15 @@
 {
-  "version": "0.8.3-D.24",
-  "notes": "Sohbette secenekli soru: bas yonetici sorularini tiklanabilir seceneklerle sorar, tek tikla ya da yazarak cevaplanir. Kurulusta secilen oyun motoru projeye tasinir; kurulusta yazilanlar Proje Defteri'ne islenir. Bas ajan grubunda sohbet aciklamalari yeni modele gore.",
-  "pub_date": "2026-11-12T08:00:11.811674500+00:00",
+  "version": "0.8.4",
+  "notes": "0.8.4: bas ajan modeli (profesyonel hatli projede plan proje grubunda bas yoneticiyle sohbette konusulur; onaydan sonra her kilometre tasi tek gorev olarak kosar, kalite hakemi urunu kullanarak dener); sohbette tiklanabilir secenekli sorular; kosan goreve gruptan canli mesaj; sade kart ekrani; iki bilgisayarla calisma ve teslim klasoru; kurulus, kart hatti ve arac kurulumu duzeltmeleri.",
+  "pub_date": "2026-11-12T10:12:20.995841400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.24/BYS-Ofis_0.8.3-D.24_x64-setup.exe",
-      "sha256": "dce2fb852453e1ff4b866a31f57cf15775018aa861d5a7ecd6fa5a2586cdcb20",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.3-D.24/BYS-Ofis_0.8.3-D.24_x64-portatif.zip",
-      "sha256_zip": "57e1e29e5751fd9608cc2e5297e11f63c72b434b51575980303db6dc414725ae"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.4/BYS-Ofis_0.8.4_x64-setup.exe",
+      "sha256": "d4d3c311717d03ca91b106e80d89c702cae81b76a6f65c35b703517c18228b14",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.4/BYS-Ofis_0.8.4_x64-portatif.zip",
+      "sha256_zip": "331d7088b385405f71fedba4071adba35e6637b7019937098cb7775838a17e09"
     }
   },
   "app": "bysofis",
-  "imza": "46452d0e2a45b67621168518b5ae075d17f8322e9395fa644e6d36ee67ebfeb3f0b40c84df15d012865b8e00468f6623780ea3b250f35a5ef3e7ff504e938f0d"
+  "imza": "258ed8514bf8ee7c08f7560953db19731581291a556e054ef47c8e607f2217551a83c9b91abb678f153ee24f732fe49799f41f12e0e80fdaff04b531d0452806"
 }

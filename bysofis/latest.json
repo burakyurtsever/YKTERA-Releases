@@ -1,15 +1,15 @@
 {
-  "version": "0.8.4",
-  "notes": "0.8.4: bas ajan modeli (profesyonel hatli projede plan proje grubunda bas yoneticiyle sohbette konusulur; onaydan sonra her kilometre tasi tek gorev olarak kosar, kalite hakemi urunu kullanarak dener); sohbette tiklanabilir secenekli sorular; kosan goreve gruptan canli mesaj; sade kart ekrani; iki bilgisayarla calisma ve teslim klasoru; kurulus, kart hatti ve arac kurulumu duzeltmeleri.",
-  "pub_date": "2026-11-12T10:12:20.995841400+00:00",
+  "version": "0.8.5",
+  "notes": "0.8.5: Tarayici artik BYS Ofis'in kendi indirdigi Chromium ile calisir (Windows ve Linux'ta ayni motor); Edge WebView2 bagimliligi kalkti. Sayfa goruntusu akici; fare, klavye, pano, dosya secme, indirme ve sayfa diyaloglari destekli. Ilk acilista Chromium bir kez indirilir (yaklasik 200 MB). Eski tarayici oturumlari tasinmaz; sitelere bir kez yeniden girilir.",
+  "pub_date": "2026-11-13T19:22:25.633756800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.4/BYS-Ofis_0.8.4_x64-setup.exe",
-      "sha256": "d4d3c311717d03ca91b106e80d89c702cae81b76a6f65c35b703517c18228b14",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.4/BYS-Ofis_0.8.4_x64-portatif.zip",
-      "sha256_zip": "331d7088b385405f71fedba4071adba35e6637b7019937098cb7775838a17e09"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.5/BYS-Ofis_0.8.5_x64-setup.exe",
+      "sha256": "9b6d66548bae352caa90e17f5b5d31e5af8a6c86bfdad446186d67f5578cc8f1",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.5/BYS-Ofis_0.8.5_x64-portatif.zip",
+      "sha256_zip": "814d51a65fdaecde5a91dec2ed594ed2ea5e2b7918f08d013cd30ad8ef6c5051"
     }
   },
   "app": "bysofis",
-  "imza": "258ed8514bf8ee7c08f7560953db19731581291a556e054ef47c8e607f2217551a83c9b91abb678f153ee24f732fe49799f41f12e0e80fdaff04b531d0452806"
+  "imza": "720e1f810ac06d44652f92daaa72fa0d75e5c31cfd8a412a6ad5ad2a3ffa976f7d15bbfb7438ab0a34c0753c8772caa6f948070a0753213915de5a148d650704"
 }

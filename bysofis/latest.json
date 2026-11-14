@@ -1,15 +1,15 @@
 {
-  "version": "0.8.6-D.25",
-  "notes": "Iki bilgisayar duzeltmeleri: bir isten dogan ek kartlar isin kostugu bilgisayarda kalir; diger bilgisayar acikken kartlar 30 saniyede bir eslesir; kosan kartta hangi bilgisayarda kostugu yazar. Kota esikleri Ayarlar > Butce'den secilir (haftalik ve 5 saatlik) ve butun bilgisayarlara eslesir. Kota esigi doldugunda ve is paketi uyesi kartta gercek neden gorunur (sistem hatasi yerine).",
-  "pub_date": "2026-11-14T08:38:18.101350700+00:00",
+  "version": "0.8.6-D.26",
+  "notes": "Iki bilgisayar: diger bilgisayar acikken kartlar bosta da 30 saniyede bir eslesir (0.8.6-D.25te bosta 2 dakikaydi); diger bilgisayarin yazdigi kart yaklasik yarim dakikada gorunur.",
+  "pub_date": "2026-11-14T09:17:54.351164500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.25/BYS-Ofis_0.8.6-D.25_x64-setup.exe",
-      "sha256": "41644c1a9af57af97b31421fa0eeb5579b63befdb13976e33d70660c98f03ffd",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.25/BYS-Ofis_0.8.6-D.25_x64-portatif.zip",
-      "sha256_zip": "06e84b99e0cff2a43391bcab3ff9682c6515a666b71edeffe69df79acad09d52"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.26/BYS-Ofis_0.8.6-D.26_x64-setup.exe",
+      "sha256": "a00379686c3f4f850aebca230159711ff8e30b8db99ff7692514e860a2ca88ad",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.26/BYS-Ofis_0.8.6-D.26_x64-portatif.zip",
+      "sha256_zip": "9bc3be794f4cf6ba61f04e8c6406d1039d1a971336a93700f68a167a0206ad52"
     }
   },
   "app": "bysofis",
-  "imza": "eaefca3e4feb3f13e1bebd03b06d406391ba8433e2698ad5fbfcb6ab7d96ccfcfe44ab2bb3c453df1a9eacff82d12671f93786b012ee4dad32441a73cfae0405"
+  "imza": "7525a35eb5c6ec018930984f2649f9a95abdbd415a4e526098f123658b7e158a62b36aae3def504d8ca05db5478fdc8acb037e8a4fbf14065183d28c12b48f09"
 }

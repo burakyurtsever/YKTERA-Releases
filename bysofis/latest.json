@@ -1,15 +1,15 @@
 {
-  "version": "0.8.6-D.27",
-  "notes": "Is paketi kendiliginden ilerler: paketin test karti basarisiz donerse lider duzeltme turuna girer ve test yeniden kosar (onayda beklemez); sistemin koydugu paket hazirlik engeli nedeni kalkinca kendiliginden acilir.",
-  "pub_date": "2026-11-14T11:20:54.270268+00:00",
+  "version": "0.8.6-D.28",
+  "notes": "Is paketi: sistemin koydugu hazirlik engeli, nedeni kalkinca gercekten kendiliginden acilir (0.8.6-D.27de kart sablonundaki yonerge satiri yuzunden acilmiyordu).",
+  "pub_date": "2026-11-14T12:38:46.332231+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.27/BYS-Ofis_0.8.6-D.27_x64-setup.exe",
-      "sha256": "8392e8afbe9cbf9271791b977bd11e90d7d02df364d47e8a345e3b3d65f0b0d6",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.27/BYS-Ofis_0.8.6-D.27_x64-portatif.zip",
-      "sha256_zip": "3efcee7352f2d818a3af93cdea2a684a73f019f620eda7dbd7ccc0979edbc038"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.28/BYS-Ofis_0.8.6-D.28_x64-setup.exe",
+      "sha256": "0b6248e12d1deec11203e0b6811f21440fb103124056e692a3566428c1037b4c",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.28/BYS-Ofis_0.8.6-D.28_x64-portatif.zip",
+      "sha256_zip": "513c06a32fd27faf8cbdbf1d440a2a87c5d9e1b8a13a38204eed3a054b735794"
     }
   },
   "app": "bysofis",
-  "imza": "576b61f6bedd2e5dc4ad35058d9aa49d7b165e3797694ea4620bf998f5d5fc3835f5a4263bf21cb8737b808142dbb6f0e3d43b800afdf50e8ba15e70cfea3d02"
+  "imza": "083c0912f570deb6fd00f7dc7ae83431976e8479a383ef84f46bb637c23d50df0e8febe9ac27e6762426ebbb620811ee003babf168b73f6d99562896c3bdf902"
 }

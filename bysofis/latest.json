@@ -1,15 +1,21 @@
 {
   "version": "0.8.7",
   "notes": "0.8.7: Iki bilgisayarla calisma duzeldi (ek kartlar isin kostugu bilgisayarda kalir, 30 saniyede esitleme, kartta bilgisayar adi). Is paketleri kendiliginden ilerler (test basarisizsa lider duzeltir, sistem engeli nedeni kalkinca acilir). Kota esikleri Ayarlar > Butce bolumunden secilir. Sorunlar yalniz gercek, cozulmemis sorunu gosterir; sorunun uygulamadan mi kullanicidan mi kaynaklandigini yonetici ajan belirler, uygulama sorunu gelistiriciye bildirilir (otomatik bildir aciksa kendiliginden, kapaliysa Telegram ve Sorunlar penceresindeki Hata bildir dugmesiyle; yalniz surum ve hata bilgisi gider). Yayin izni verilen kart surumu ayni hesabin ayri surum deposuna yayinlayabilir. Yeni motor: Gemini 4 Hydrogen.",
-  "pub_date": "2026-11-14T20:53:36.477858500+00:00",
+  "pub_date": "2026-11-14T21:06:36.976786500+00:00",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_x64-setup.exe",
-      "sha256": "46cd599c61d05f046a05790d3c63de3e7b8d72549e2fe6e5d4caab7363dd0967",
+      "sha256": "896646a161f057838e8feda16466ef99aeceb3a7d46f3c7da44cbfa4947c8c1b",
       "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_x64-portatif.zip",
-      "sha256_zip": "ef9482e3e213ae14886a6fd75dafeb034e65e32c389430079ba2876e25007ccc"
+      "sha256_zip": "324dc37c9ae0f7f0d4086aca50fbeeb93e8307b4639b5dbb3af3570ab6296822"
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_linux-x64.tar.gz",
+      "sha256": "d0f348154258133e77b756d4aeb14abfe7b3890242864618713f839a0015383e",
+      "url_deb": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/bys-ofis_0.8.7_amd64.deb",
+      "sha256_deb": "38a4747021c85df599e0fccb0a894871677b12ec824cb6a8b61828f5f9c1779a"
     }
   },
   "app": "bysofis",
-  "imza": "c17e3309974b0e2a4c7a228c4252e6978de5d5d356bef2b441eb0e32c7ebaf81d4cafd7d633c194ee13e39949f92bd1feb2f1535133f682dafd52a9fd1e2da0f"
+  "imza": "57c435d244efe9152eae5c8321ea301f9f9a970a4143dfdce72a4843b894773306985d7078b84e6c7db796e867397e77fe609e36147914fac402b1d1e5809403"
 }

@@ -1,15 +1,15 @@
 {
-  "version": "0.8.6-D.26",
-  "notes": "Iki bilgisayar: diger bilgisayar acikken kartlar bosta da 30 saniyede bir eslesir (0.8.6-D.25te bosta 2 dakikaydi); diger bilgisayarin yazdigi kart yaklasik yarim dakikada gorunur.",
-  "pub_date": "2026-11-14T09:17:54.351164500+00:00",
+  "version": "0.8.6-D.27",
+  "notes": "Is paketi kendiliginden ilerler: paketin test karti basarisiz donerse lider duzeltme turuna girer ve test yeniden kosar (onayda beklemez); sistemin koydugu paket hazirlik engeli nedeni kalkinca kendiliginden acilir.",
+  "pub_date": "2026-11-14T11:20:54.270268+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.26/BYS-Ofis_0.8.6-D.26_x64-setup.exe",
-      "sha256": "a00379686c3f4f850aebca230159711ff8e30b8db99ff7692514e860a2ca88ad",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.26/BYS-Ofis_0.8.6-D.26_x64-portatif.zip",
-      "sha256_zip": "9bc3be794f4cf6ba61f04e8c6406d1039d1a971336a93700f68a167a0206ad52"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.27/BYS-Ofis_0.8.6-D.27_x64-setup.exe",
+      "sha256": "8392e8afbe9cbf9271791b977bd11e90d7d02df364d47e8a345e3b3d65f0b0d6",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.27/BYS-Ofis_0.8.6-D.27_x64-portatif.zip",
+      "sha256_zip": "3efcee7352f2d818a3af93cdea2a684a73f019f620eda7dbd7ccc0979edbc038"
     }
   },
   "app": "bysofis",
-  "imza": "7525a35eb5c6ec018930984f2649f9a95abdbd415a4e526098f123658b7e158a62b36aae3def504d8ca05db5478fdc8acb037e8a4fbf14065183d28c12b48f09"
+  "imza": "576b61f6bedd2e5dc4ad35058d9aa49d7b165e3797694ea4620bf998f5d5fc3835f5a4263bf21cb8737b808142dbb6f0e3d43b800afdf50e8ba15e70cfea3d02"
 }

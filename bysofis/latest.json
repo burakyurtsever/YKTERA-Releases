@@ -1,15 +1,15 @@
 {
-  "version": "0.8.5",
-  "notes": "0.8.5: Tarayici artik BYS Ofis'in kendi indirdigi Chromium ile calisir (Windows ve Linux'ta ayni motor); Edge WebView2 bagimliligi kalkti. Sayfa goruntusu akici; fare, klavye, pano, dosya secme, indirme ve sayfa diyaloglari destekli. Ilk acilista Chromium bir kez indirilir (yaklasik 200 MB). Eski tarayici oturumlari tasinmaz; sitelere bir kez yeniden girilir.",
-  "pub_date": "2026-11-13T19:22:25.633756800+00:00",
+  "version": "0.8.6-D.25",
+  "notes": "Iki bilgisayar duzeltmeleri: bir isten dogan ek kartlar isin kostugu bilgisayarda kalir; diger bilgisayar acikken kartlar 30 saniyede bir eslesir; kosan kartta hangi bilgisayarda kostugu yazar. Kota esikleri Ayarlar > Butce'den secilir (haftalik ve 5 saatlik) ve butun bilgisayarlara eslesir. Kota esigi doldugunda ve is paketi uyesi kartta gercek neden gorunur (sistem hatasi yerine).",
+  "pub_date": "2026-11-14T08:38:18.101350700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.5/BYS-Ofis_0.8.5_x64-setup.exe",
-      "sha256": "9b6d66548bae352caa90e17f5b5d31e5af8a6c86bfdad446186d67f5578cc8f1",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.5/BYS-Ofis_0.8.5_x64-portatif.zip",
-      "sha256_zip": "814d51a65fdaecde5a91dec2ed594ed2ea5e2b7918f08d013cd30ad8ef6c5051"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.25/BYS-Ofis_0.8.6-D.25_x64-setup.exe",
+      "sha256": "41644c1a9af57af97b31421fa0eeb5579b63befdb13976e33d70660c98f03ffd",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.6-D.25/BYS-Ofis_0.8.6-D.25_x64-portatif.zip",
+      "sha256_zip": "06e84b99e0cff2a43391bcab3ff9682c6515a666b71edeffe69df79acad09d52"
     }
   },
   "app": "bysofis",
-  "imza": "720e1f810ac06d44652f92daaa72fa0d75e5c31cfd8a412a6ad5ad2a3ffa976f7d15bbfb7438ab0a34c0753c8772caa6f948070a0753213915de5a148d650704"
+  "imza": "eaefca3e4feb3f13e1bebd03b06d406391ba8433e2698ad5fbfcb6ab7d96ccfcfe44ab2bb3c453df1a9eacff82d12671f93786b012ee4dad32441a73cfae0405"
 }

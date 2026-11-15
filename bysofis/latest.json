@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.35",
-  "notes": "Is artik dogru bilgisayarda baslar: istekte acik hedef varsa o, yoksa projenin islerinin kostugu bilgisayar, o da yoksa istegin yazildigi bilgisayar (ana bilgisayar varsayilani kalkti). Ornek klasoru farkli yolda olan bilgisayarda sohbet ve esitleme calisir (yollar artik paylasilan ayar dosyasindan okunmaz). Ayni is iki bilgisayarda birden acilmaz; ayni numarayi alan iki kart kayipsiz ayrilir. Baska bilgisayarda kosan kart buradan durdurulabilir. Patron onayi takili kalite hakemini asar. Sistemin kendi notu ya da 'Engel yok' satiri karti onayda bekletmez. Hic tur atmadan donen kosu basarili sayilmaz; kart Rapor'u yeni oturumla yazar. Bekleme nedenleri diger bilgisayarlarda da gorunur; bilgisayar etiketleri kurulu araclardan turetilir. Proje duraklat/surdur eklendi; bekletilen kart icin tekrar tekrar uyari yazilmaz; yeni proje grubu hemen listede gorunur.",
-  "pub_date": "2026-11-15T13:52:18.881442200+00:00",
+  "version": "0.8.8-D.36",
+  "notes": "Yonetici onayinda is beklemez: her kart ya kapanir, ya yeniden kosar, ya da tek satir nedenle Patron onayina duser (en gec 60 dakika). Gomulu projede kaniti tam ve testi temiz kod karti kendiliginden ana dala birlesir; Patron'a yalniz karta yukle ve dene adimi duser, Denedim tamam ile kapanir. Karta yukleme, saha testi ve donanim isleri yine Patron'da. Kural/kapi dosyasina dokunan degisiklik Patron onayinda kalir, yoneticiye geri cekilmez. Isi bittigi halde calisiyor gorunen kart duzeltildi; olu kilitli kart kendiliginden kurtarilir. Yalitilmis kosu, baglantili klasorlerin (junction) icerigini kart dalina almaz. Kod deposu kart dalinda kalirsa dongu kendisi ana dala doner. Projenin bilgisayari kapaliysa is sessizce beklemez: Patron onayinda bekleyelim mi, bu bilgisayara devredelim mi diye bir kez sorulur. Sirketin projesiz isleri de sirketin islerinin kostugu bilgisayara gider. Uzun suredir cevrimdisi mesaji yalniz gercekten ulasilamayan bilgisayar icin cikar.",
+  "pub_date": "2026-11-15T17:43:41.689111300+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.35/BYS-Ofis_0.8.8-D.35_x64-setup.exe",
-      "sha256": "0e86a1c84c2a7e4f3a40159d9d4e9549947282811410f3c05b2d3960f6d78d17",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.35/BYS-Ofis_0.8.8-D.35_x64-portatif.zip",
-      "sha256_zip": "18d2ed606ad77ab3fead1c78197f667043edb5d1b4b49bec486dba60b0e5d60c"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.36/BYS-Ofis_0.8.8-D.36_x64-setup.exe",
+      "sha256": "6be47152373844fd95d8449948fc4cd2fb3c0a1b0b7aecddeccd5f3d8f93346e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.36/BYS-Ofis_0.8.8-D.36_x64-portatif.zip",
+      "sha256_zip": "202f098bf92928c532f6f81164024e8b5b74c38df08f053d37fcb88ce9040c18"
     }
   },
   "app": "bysofis",
-  "imza": "af052d99e09dc55be8fecaa8d3c4b670516353c282d1dcc9cc1fb0c9f8fa468f3edbed4f6e13802fa1d96394009829438ddfdc967df7b65e7f671bd2be9db40f"
+  "imza": "75d3194074d2c2b12023c74cf5b3d02cb67f19a91fb2f59bb5347d51ac18da63fa06f8c1b47269cda617ebb9f4f2064364ba9b89101fa68a0704e417016ff10e"
 }

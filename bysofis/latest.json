@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.30",
-  "notes": "Iki bilgisayarli kullanimda esitleme artik hicbir dosya yuzunden kilitlenmez: iki tarafta degisen proje asama kaydi alan alan birlesir, baska dosyalarda uzak surum alinir ve yerel hali yedeklenir. Kilitli kalmis bilgisayar bu surumu kurunca ilk esitlemede kendiliginden toparlanir. Asama bekleme notu artik esitlenen dosyaya yazilmaz.",
-  "pub_date": "2026-11-15T06:37:08.362514400+00:00",
+  "version": "0.8.8-D.31",
+  "notes": "Sohbette Patron a sorulan secenekli soru ve Patron kabulunu bekleyen asama artik Patron onayi sayacina, sol onay paneline ve Tahta daki Patron onayi sutununa duser; Konusmalar listesinde cevap bekliyor isareti cikar. Asama kabulu verildigi anda kayda gecer ve esitleme catismasinda silinmez. Sorunlar > Hata bildir, guncellemeden once kaydedilmis sorunlari da gonderir; ayni sorun tek satirda toplanir ve gonderilemezse gercek neden yazilir.",
+  "pub_date": "2026-11-15T07:45:59.222748900+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.30/BYS-Ofis_0.8.8-D.30_x64-setup.exe",
-      "sha256": "1bee576cc5d4783075714676ef41902e120a9ee202b994a2cf15454ad062865d",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.30/BYS-Ofis_0.8.8-D.30_x64-portatif.zip",
-      "sha256_zip": "9c9e5ec997f9a325026f2c51018cee0b757f310856e3360adcbd6d5352569be2"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.31/BYS-Ofis_0.8.8-D.31_x64-setup.exe",
+      "sha256": "26c34e97fd1a659644eb89e6252a8948d97782f07200654819592c2a01c2aaf1",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.31/BYS-Ofis_0.8.8-D.31_x64-portatif.zip",
+      "sha256_zip": "b46d63df6dc7fef3359cc1b12e74021d84d2ba3ff43f09ce4dc8807e5dbe7392"
     }
   },
   "app": "bysofis",
-  "imza": "cfe923418b25d24d45a78cab33a41c66b48b7cf0eb29180d4510989f224921ef6e82e20036ee2595725e9f3985ddcf9a61d8721ee5492d67daa386d3dc86880b"
+  "imza": "308421980b3ec345aff35c2cd45ffbff25f6680d3d500162f6bd4aa19b6a725065146fa103730e7a0bddf82389cfb933f7de2f28c3ecd962e8c7758ac478bb08"
 }

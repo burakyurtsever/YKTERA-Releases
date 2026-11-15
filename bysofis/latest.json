@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.32",
-  "notes": "Uygulama yoneticisinin, Telegram gorevinin ve bas yoneticinin actigi kartlar yazildigi anda kayda gecer ve diger bilgisayara gider (onceden saatlerce kayda gecmeden kalabiliyordu). Dongu her esitleme turunda kayda gecmemis yazmayi kendiliginden toplar; kosan kartin yarim isi bundan etkilenmez.",
-  "pub_date": "2026-11-15T08:23:37.363885600+00:00",
+  "version": "0.8.8-D.33",
+  "notes": "Dongunun kayda gecmemis yazmayi toplama adimi, listenin basinda degismis bir dosya oldugunda hata verip duruyordu; duzeltildi. Yeni komutlar: ajans proje arsivle, geri-al ve kaldir (Projeler ekranindaki ayni islemler; silme yalniz Geri Donusum Kutusu na).",
+  "pub_date": "2026-11-15T10:21:56.904748400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.32/BYS-Ofis_0.8.8-D.32_x64-setup.exe",
-      "sha256": "31669de29a461456c900005d6d2dc347889d5a8b678694398800aaf9ae1a9e71",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.32/BYS-Ofis_0.8.8-D.32_x64-portatif.zip",
-      "sha256_zip": "41fb6c2373f5f6e0665193acd85c70534b3f0ee74c77d81a4ef75d174f6a3526"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.33/BYS-Ofis_0.8.8-D.33_x64-setup.exe",
+      "sha256": "6ae8ac272c6d89e1149f8fb3eeeeb8809034f3e35427aece6e7534bfe8bbbf36",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.33/BYS-Ofis_0.8.8-D.33_x64-portatif.zip",
+      "sha256_zip": "3f56079f63b5a5592718ccb26a4bf5c2e3980d06f516fe97b01b1d8f36beba7a"
     }
   },
   "app": "bysofis",
-  "imza": "321bbf20e18bee9731ec0f4217f0f69f1a5ea337c0308fdbbfce556d8cd051b2fa744521db2e6cecd56a7a7eddcbdea318e481f5d7ecd59952f62300eb299802"
+  "imza": "f17f04c5738fb202ebd89b690c0e20283badd0c3f32f85062a6f3553d65bca71756dc789761f37855986ad179417829e9ff65e4f8607ce1ae6cde51953c70308"
 }

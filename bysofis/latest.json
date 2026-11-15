@@ -1,21 +1,15 @@
 {
-  "version": "0.8.7",
-  "notes": "0.8.7: Iki bilgisayarla calisma duzeldi (ek kartlar isin kostugu bilgisayarda kalir, 30 saniyede esitleme, kartta bilgisayar adi). Is paketleri kendiliginden ilerler (test basarisizsa lider duzeltir, sistem engeli nedeni kalkinca acilir). Kota esikleri Ayarlar > Butce bolumunden secilir. Sorunlar yalniz gercek, cozulmemis sorunu gosterir; sorunun uygulamadan mi kullanicidan mi kaynaklandigini yonetici ajan belirler, uygulama sorunu gelistiriciye bildirilir (otomatik bildir aciksa kendiliginden, kapaliysa Telegram ve Sorunlar penceresindeki Hata bildir dugmesiyle; yalniz surum ve hata bilgisi gider). Yayin izni verilen kart surumu ayni hesabin ayri surum deposuna yayinlayabilir. Yeni motor: Gemini 4 Hydrogen.",
-  "pub_date": "2026-11-14T21:06:36.976786500+00:00",
+  "version": "0.8.8-D.30",
+  "notes": "Iki bilgisayarli kullanimda esitleme artik hicbir dosya yuzunden kilitlenmez: iki tarafta degisen proje asama kaydi alan alan birlesir, baska dosyalarda uzak surum alinir ve yerel hali yedeklenir. Kilitli kalmis bilgisayar bu surumu kurunca ilk esitlemede kendiliginden toparlanir. Asama bekleme notu artik esitlenen dosyaya yazilmaz.",
+  "pub_date": "2026-11-15T06:37:08.362514400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_x64-setup.exe",
-      "sha256": "896646a161f057838e8feda16466ef99aeceb3a7d46f3c7da44cbfa4947c8c1b",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_x64-portatif.zip",
-      "sha256_zip": "324dc37c9ae0f7f0d4086aca50fbeeb93e8307b4639b5dbb3af3570ab6296822"
-    },
-    "linux-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/BYS-Ofis_0.8.7_linux-x64.tar.gz",
-      "sha256": "d0f348154258133e77b756d4aeb14abfe7b3890242864618713f839a0015383e",
-      "url_deb": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.7/bys-ofis_0.8.7_amd64.deb",
-      "sha256_deb": "38a4747021c85df599e0fccb0a894871677b12ec824cb6a8b61828f5f9c1779a"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.30/BYS-Ofis_0.8.8-D.30_x64-setup.exe",
+      "sha256": "1bee576cc5d4783075714676ef41902e120a9ee202b994a2cf15454ad062865d",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.30/BYS-Ofis_0.8.8-D.30_x64-portatif.zip",
+      "sha256_zip": "9c9e5ec997f9a325026f2c51018cee0b757f310856e3360adcbd6d5352569be2"
     }
   },
   "app": "bysofis",
-  "imza": "57c435d244efe9152eae5c8321ea301f9f9a970a4143dfdce72a4843b894773306985d7078b84e6c7db796e867397e77fe609e36147914fac402b1d1e5809403"
+  "imza": "cfe923418b25d24d45a78cab33a41c66b48b7cf0eb29180d4510989f224921ef6e82e20036ee2595725e9f3985ddcf9a61d8721ee5492d67daa386d3dc86880b"
 }

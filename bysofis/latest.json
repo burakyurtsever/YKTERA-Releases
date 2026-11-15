@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.34",
-  "notes": "Baska bilgisayarda kosmus kartin onayi artik o bilgisayara iletilir ve orada birlestirilir (onceden sistem hatasi veriyordu). Geri gonder, deneme ve kanit sayaclarini sifirlar. Takilan kart icin acilan inceleme kartinin karari (kismi kabul, geri gonder, iptal) uygulanir; karar yoksa Patron onayina duser. Takip karti takilan karta bagli acilmaz. Ayni kok neden icin tekrar tekrar inceleme karti acilmaz; zincir uzarsa Patron onayina tek kalem duser.",
-  "pub_date": "2026-11-15T10:41:26.881460300+00:00",
+  "version": "0.8.8-D.35",
+  "notes": "Is artik dogru bilgisayarda baslar: istekte acik hedef varsa o, yoksa projenin islerinin kostugu bilgisayar, o da yoksa istegin yazildigi bilgisayar (ana bilgisayar varsayilani kalkti). Ornek klasoru farkli yolda olan bilgisayarda sohbet ve esitleme calisir (yollar artik paylasilan ayar dosyasindan okunmaz). Ayni is iki bilgisayarda birden acilmaz; ayni numarayi alan iki kart kayipsiz ayrilir. Baska bilgisayarda kosan kart buradan durdurulabilir. Patron onayi takili kalite hakemini asar. Sistemin kendi notu ya da 'Engel yok' satiri karti onayda bekletmez. Hic tur atmadan donen kosu basarili sayilmaz; kart Rapor'u yeni oturumla yazar. Bekleme nedenleri diger bilgisayarlarda da gorunur; bilgisayar etiketleri kurulu araclardan turetilir. Proje duraklat/surdur eklendi; bekletilen kart icin tekrar tekrar uyari yazilmaz; yeni proje grubu hemen listede gorunur.",
+  "pub_date": "2026-11-15T13:52:18.881442200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.34/BYS-Ofis_0.8.8-D.34_x64-setup.exe",
-      "sha256": "855bdb4501b32b208e7188e4579f20264f18da20d03157acc7ec6bf3a74940f5",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.34/BYS-Ofis_0.8.8-D.34_x64-portatif.zip",
-      "sha256_zip": "ccb8849b982281c1d164250fd6862392be1413080e65587929756907704f98ca"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.35/BYS-Ofis_0.8.8-D.35_x64-setup.exe",
+      "sha256": "0e86a1c84c2a7e4f3a40159d9d4e9549947282811410f3c05b2d3960f6d78d17",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.35/BYS-Ofis_0.8.8-D.35_x64-portatif.zip",
+      "sha256_zip": "18d2ed606ad77ab3fead1c78197f667043edb5d1b4b49bec486dba60b0e5d60c"
     }
   },
   "app": "bysofis",
-  "imza": "f78e37f1f417edf3b515c55527a5c8e41ac971c2f352c7630c2b809d08a6789c41363ed16f9fbe4b9b6fcd5a08a17493216dd4ce2f55ad0d4247f2cf4ecd5e06"
+  "imza": "af052d99e09dc55be8fecaa8d3c4b670516353c282d1dcc9cc1fb0c9f8fa468f3edbed4f6e13802fa1d96394009829438ddfdc967df7b65e7f671bd2be9db40f"
 }

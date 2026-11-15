@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.31",
-  "notes": "Sohbette Patron a sorulan secenekli soru ve Patron kabulunu bekleyen asama artik Patron onayi sayacina, sol onay paneline ve Tahta daki Patron onayi sutununa duser; Konusmalar listesinde cevap bekliyor isareti cikar. Asama kabulu verildigi anda kayda gecer ve esitleme catismasinda silinmez. Sorunlar > Hata bildir, guncellemeden once kaydedilmis sorunlari da gonderir; ayni sorun tek satirda toplanir ve gonderilemezse gercek neden yazilir.",
-  "pub_date": "2026-11-15T07:45:59.222748900+00:00",
+  "version": "0.8.8-D.32",
+  "notes": "Uygulama yoneticisinin, Telegram gorevinin ve bas yoneticinin actigi kartlar yazildigi anda kayda gecer ve diger bilgisayara gider (onceden saatlerce kayda gecmeden kalabiliyordu). Dongu her esitleme turunda kayda gecmemis yazmayi kendiliginden toplar; kosan kartin yarim isi bundan etkilenmez.",
+  "pub_date": "2026-11-15T08:23:37.363885600+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.31/BYS-Ofis_0.8.8-D.31_x64-setup.exe",
-      "sha256": "26c34e97fd1a659644eb89e6252a8948d97782f07200654819592c2a01c2aaf1",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.31/BYS-Ofis_0.8.8-D.31_x64-portatif.zip",
-      "sha256_zip": "b46d63df6dc7fef3359cc1b12e74021d84d2ba3ff43f09ce4dc8807e5dbe7392"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.32/BYS-Ofis_0.8.8-D.32_x64-setup.exe",
+      "sha256": "31669de29a461456c900005d6d2dc347889d5a8b678694398800aaf9ae1a9e71",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.32/BYS-Ofis_0.8.8-D.32_x64-portatif.zip",
+      "sha256_zip": "41fb6c2373f5f6e0665193acd85c70534b3f0ee74c77d81a4ef75d174f6a3526"
     }
   },
   "app": "bysofis",
-  "imza": "308421980b3ec345aff35c2cd45ffbff25f6680d3d500162f6bd4aa19b6a725065146fa103730e7a0bddf82389cfb933f7de2f28c3ecd962e8c7758ac478bb08"
+  "imza": "321bbf20e18bee9731ec0f4217f0f69f1a5ea337c0308fdbbfce556d8cd051b2fa744521db2e6cecd56a7a7eddcbdea318e481f5d7ecd59952f62300eb299802"
 }

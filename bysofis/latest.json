@@ -1,15 +1,15 @@
 {
-  "version": "0.8.8-D.33",
-  "notes": "Dongunun kayda gecmemis yazmayi toplama adimi, listenin basinda degismis bir dosya oldugunda hata verip duruyordu; duzeltildi. Yeni komutlar: ajans proje arsivle, geri-al ve kaldir (Projeler ekranindaki ayni islemler; silme yalniz Geri Donusum Kutusu na).",
-  "pub_date": "2026-11-15T10:21:56.904748400+00:00",
+  "version": "0.8.8-D.34",
+  "notes": "Baska bilgisayarda kosmus kartin onayi artik o bilgisayara iletilir ve orada birlestirilir (onceden sistem hatasi veriyordu). Geri gonder, deneme ve kanit sayaclarini sifirlar. Takilan kart icin acilan inceleme kartinin karari (kismi kabul, geri gonder, iptal) uygulanir; karar yoksa Patron onayina duser. Takip karti takilan karta bagli acilmaz. Ayni kok neden icin tekrar tekrar inceleme karti acilmaz; zincir uzarsa Patron onayina tek kalem duser.",
+  "pub_date": "2026-11-15T10:41:26.881460300+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.33/BYS-Ofis_0.8.8-D.33_x64-setup.exe",
-      "sha256": "6ae8ac272c6d89e1149f8fb3eeeeb8809034f3e35427aece6e7534bfe8bbbf36",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.33/BYS-Ofis_0.8.8-D.33_x64-portatif.zip",
-      "sha256_zip": "3f56079f63b5a5592718ccb26a4bf5c2e3980d06f516fe97b01b1d8f36beba7a"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.34/BYS-Ofis_0.8.8-D.34_x64-setup.exe",
+      "sha256": "855bdb4501b32b208e7188e4579f20264f18da20d03157acc7ec6bf3a74940f5",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.8.8-D.34/BYS-Ofis_0.8.8-D.34_x64-portatif.zip",
+      "sha256_zip": "ccb8849b982281c1d164250fd6862392be1413080e65587929756907704f98ca"
     }
   },
   "app": "bysofis",
-  "imza": "f17f04c5738fb202ebd89b690c0e20283badd0c3f32f85062a6f3553d65bca71756dc789761f37855986ad179417829e9ff65e4f8607ce1ae6cde51953c70308"
+  "imza": "f78e37f1f417edf3b515c55527a5c8e41ac971c2f352c7630c2b809d08a6789c41363ed16f9fbe4b9b6fcd5a08a17493216dd4ce2f55ad0d4247f2cf4ecd5e06"
 }

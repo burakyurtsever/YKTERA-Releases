@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.1",
-  "notes": "Uyelik: Ayarlar, Hesap altinda Giris yap ile bu bilgisayar hesaba eklenir (kod tarayicida onaylanir); guncelleme kanali hesaptan gelir ve guncelleme once kendi sunucumuza sorulur. Kampus sol altta bagli butun motorlarin kullanim yuzdeleri. Antigravity: sohbette canli akis gorunur; is turune gore sure siniri (15/45/90 dk) ve kesilen kosu kaldigi yerden devam eder. Onay: kartta, onay panelinde ve sohbette tek tik Onayla; onayladim yazmak bitmis karti yeniden kosturmaz; karta yukle ve dene hatirlatmasi isi bekletmez. Ajan onerileri urun projesinde kendiliginden karta donusmez, Oneriler satirinda Ac ya da Gec ile karar verilir. Duzeltmeler: derleme ciktilari kart dalina girmez; oneriden acilan kart onerideki dosya yolunu kullanir; baska bilgisayarda kosacak kartin kod yolu o bilgisayara gore yazilir.",
-  "pub_date": "2026-11-16T07:18:42.931525100+00:00",
+  "version": "0.9.0-D.2",
+  "notes": "Sohbetler bilgisayarlar arasinda esitlenir: bir bilgisayarda yazilan grup mesaji ve ajan cevabi, ayni hesaptaki diger bilgisayarlarda birkac saniye icinde gorunur (uyelik sunucusu uzerinden, uctan uca sifreli; sunucu icerigi okuyamaz). Ilk acilista her bilgisayar kendi anahtarini olusturur; ilk bilgisayar hesap anahtarini uretir, digerleri onu BYS Ofis acik olan bir bilgisayardan birkac dakika icinde kendiliginden alir (Ayarlar > Hesap'ta Esitleme durumu). Internet yokken yazilanlar kuyrukta bekler, baglanti gelince gider. Kart durumlari ve Patron onayi bekleyen kalemler de sifreli ozet olarak sunucuya gider (web paneli icin). Yeni komut: ajans esitle durum | tek. Duzeltme: sohbet testleri Antigravity olmayan ortamda bagimsiz.",
+  "pub_date": "2026-11-16T13:07:02.706179700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.1/BYS-Ofis_0.9.0-D.1_x64-setup.exe",
-      "sha256": "d58a96ed68f46fc855531b9afc27c233cfd1f186b3bae3530e5721a207f7acd7",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.1/BYS-Ofis_0.9.0-D.1_x64-portatif.zip",
-      "sha256_zip": "b8e5402e0ed14ae531c2e194da6f13e800a48093881bc7ca76d96caa7d98d35d"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.2/BYS-Ofis_0.9.0-D.2_x64-setup.exe",
+      "sha256": "0f89dec8b1b3f5712c679a12b7489458c35aae164ce1b1aa0156ac5ec6332b72",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.2/BYS-Ofis_0.9.0-D.2_x64-portatif.zip",
+      "sha256_zip": "432b487fabc486af5eac7357c7099f82ba27aef68fa79cc3a48f49753c57a311"
     }
   },
   "app": "bysofis",
-  "imza": "9d7e05af7cca11fa19cdf0891bd5e70f58f0cda8ff61e109fded961d4614df9b00c076581bc44ef87fbd29c21037f4f9ea71e3bdcfd0af108b5918a757139306"
+  "imza": "b8049336083edf3d7714fcd61d8d71c991177dbff3823776ca471073e329ca2124d897c88296926ec8785693afbc20e8568f23bafb4d67ba4d12c79831c7a607"
 }

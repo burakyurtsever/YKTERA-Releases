@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.6",
-  "notes": "Cumartesi paketi: sifirdan kurulum duzeltmeleri (tek tikla arac kurulumu, ilk acilis sihirbazi), arayuz yenilemesi (okunur yazilar, sade ust serit, Ayarlar 7 baslik, bos durumlar, Turkce metinler), dongu ve kart akisi hatalari, panelden cihaz basina not/proje paylasimi.",
-  "pub_date": "2026-11-17T19:52:19.677460800+00:00",
+  "version": "0.9.0-D.7",
+  "notes": "Kartlar artik Cloudflare uzerinden esitlenir; panelden (telefondan) kartlari gorup is verebilir, onaylayabilir, durdurabilirsin. Tahta 4 sutun (Bekliyor, Calisiyor, Onay, Bitti; test ve engel alt durum). Sohbet ve kart pencereleri ayri, hep ustte pencereye ayrilabilir; ic ice giren pencereler ve kesik mesaj kutusu duzeldi. Sifirdan kurulum duzeltmeleri (Git tek tikla kurulum, Turkce unvanlar, Roller listesi), hata bildirimi izni ilk kurulumda.",
+  "pub_date": "2026-11-17T23:44:30.632344200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.6/BYS-Ofis_0.9.0-D.6_x64-setup.exe",
-      "sha256": "c1215441d8193e7c81fe08988f8f17031bcdb5396f2b5066c6d25d3cf74a24ef",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.6/BYS-Ofis_0.9.0-D.6_x64-portatif.zip",
-      "sha256_zip": "a96a33e2b1da366ea7236b2e1903c711b1225924d3d6ce818571f60e5ba470ff"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.7/BYS-Ofis_0.9.0-D.7_x64-setup.exe",
+      "sha256": "160a6dc45135f646e18b6616a6a137c3c6491f2e5fcc2a32647fc5b68da5fd9e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.7/BYS-Ofis_0.9.0-D.7_x64-portatif.zip",
+      "sha256_zip": "3142239a54697170954f6a20c416bb86253050b327b594cee3c341e214ccdf25"
     }
   },
   "app": "bysofis",
-  "imza": "a73817571d27529b692b4ee89c7a17abbc8a40ca37779b6b122fb33449b1d6ae55f115e0779cc0c7f4868a62f30e26cb21461e269150a551181791b2782b3409"
+  "imza": "04ef79647905b0a906e692a14df485a03e8230c9b1ee5eff5fe005b00515e805f04c796063b65a82fbec6ed98841e5e85c326a829c60fcd0f265827c24f7ea07"
 }

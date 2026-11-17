@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.3",
-  "notes": "Hata duzeltmeleri: toplu testte ara sira coken test karti kirmiziya dusurmuyor, biten kart bastan kosmuyor; elle kapanan karta kopya triyaj acilmiyor; 'anahtar' adli dosya yanlis onaya dusmuyor; baska bilgisayardaki pakete onay iletiliyor; bekletme kosan karti durduruyor; derleme artiklari diski doldurmuyor; kullanici modunda genel istek bosa dusmuyor; sohbete Ctrl+V ile gorsel yapistirma. Kurulum: winget gerektirmeyen Kur dugmeleri (Git, Claude Code, Antigravity), Git sonradan kurulunca depo kendiliginden baslar, sihirbazda bos sirket adimi atlanir, Chromium acilista kendiliginden iner, eksik motor ve araclar tek ekranda. Arayuz: ust serit sadelesti (limit ve kosan is yazilari kalkti; kota Kampus'te), Turkce karakterler, daha buyuk ve okunur yazi, tekrar eden ekranlar toplandi, kart sohbetinde yalniz Istendi ve Cikti. Kurallar: isler tek kartta, ayri testci yalniz istenirse; makine devri yalniz gercekten ulasilamayinca.",
-  "pub_date": "2026-11-17T03:36:10.239635500+00:00",
+  "version": "0.9.0-D.4",
+  "notes": "Ajan kosulari sabit sure yerine hareketsizlik bekcisiyle (calisan ajan kesilmez); proje kod haritasi (ajan kodu bastan okumaz); bas ajan kodu Antigravity'ye yazdirabilir; kullanici modunda BYS Ofis hatalari gelistiriciye raporlanir, dahili dosyalar diske acilmaz; guncelleme dosyalari kendi sunucumuzdan iner; birlestirme testinde 'Test ediliyor' etiketi. Duzeltmeler: sol menude ikinci tiklama pencereyi kapatir; Hafiza ana hafizayi her zaman gosterir; Saglik ekrani kalkti, yalniz Yedek; Hesap'ta bilgisayarlar ve tarayici oturumlari ayri. Urun projelerinde GitHub'a izinsiz gonderim ve git zorunlulugu kalkti; kisisel kurallar ve proje adlari urune girmez. Projeye gore karta yukleme izni: acilan projede ajan ESP gelistirme kartina yukler, seri porttan izler ve debug eder (varsayilan kapali). Grup sohbeti once konusur, kendiliginden kart acmaz; ac / ekle / birlestir onerisini dugmeyle sorar.",
+  "pub_date": "2026-11-17T17:32:31.207559200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.3/BYS-Ofis_0.9.0-D.3_x64-setup.exe",
-      "sha256": "7d76eecd072c6c9761803837f29125fa749c593cc890d8873708ae557b896224",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.3/BYS-Ofis_0.9.0-D.3_x64-portatif.zip",
-      "sha256_zip": "6a4a3ac2ac18042f6aead7bc9171a7dbd4f38643d8aa4ccd5e7ea7f872b25766"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.4/BYS-Ofis_0.9.0-D.4_x64-setup.exe",
+      "sha256": "e184f9e7f068263befed069de0542f0e182f8bce4c71280b445b6c515858f6d1",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.4/BYS-Ofis_0.9.0-D.4_x64-portatif.zip",
+      "sha256_zip": "2da1bc4e7721575c2f903e71905b954b25f005ff30bee08d2bebd203e0b822ab"
     }
   },
   "app": "bysofis",
-  "imza": "baf5f70004963487850d00cf8f79c0f3d64cb8e4413c5723bb090d2961850cc183d9e08a040eff60b772cc0403fe60768b902b2734b6a28ae71ee4e197f94f07"
+  "imza": "a5688901e2a8efa5a32ced0e2ba4c74fce14ffb1637e2428e4573b1e01dc08c8c118b521aabc89a5ec00cee2d870389591ee63be61491d766d0b035e9f93fc01"
 }

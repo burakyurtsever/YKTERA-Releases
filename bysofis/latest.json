@@ -1,15 +1,15 @@
 {
   "version": "0.9.0-D.5",
-  "notes": "Proje bazli karta yukleme izni: Projeler ekraninda acilan projede ajan gelistirme kartina yukler, seri porttan izler ve debug eder (varsayilan kapali). Kapi, izin olmayan projede yukleme komutlarinin tum yazimlarini engeller.",
-  "pub_date": "2026-11-17T17:48:38.000731700+00:00",
+  "notes": "Sicak duzeltme: D.4 sonrasi kullanici bilgisayarlarinda kurulum yenileme ve calisan dongusu duruyordu (cekirdek klasoru bulunamadi); duzeldi. Hata metinlerinde gelistirici ifadesi kalmadi.",
+  "pub_date": "2026-11-17T19:12:47.570863400+00:00",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.5/BYS-Ofis_0.9.0-D.5_x64-setup.exe",
-      "sha256": "04c30d6dce314479a28501fbc0a55c6df80e5860a8285baef8e97fabc93f1388",
+      "sha256": "92163728b602eba54b81fc9dc2ee6e9716acf859e094de8bcbd13982b7a60719",
       "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.5/BYS-Ofis_0.9.0-D.5_x64-portatif.zip",
-      "sha256_zip": "2414be38df2bbbb5d7288d5688f23985a3169067e4b179db6b9bab11e1502073"
+      "sha256_zip": "773c2a38362562ef645276abd2ef3ca487344de7fd370047a383eac0ce2b4496"
     }
   },
   "app": "bysofis",
-  "imza": "34dbad08b28c15c0fe23497477cf74346aba9b14f57769fb769e07238172c0e13b393982a7ad20d5e2d4f3f046bef74d7f9bef91bff279fc24b6540fd40cc205"
+  "imza": "1bdc51982226c4688358f3611d50e8536758c9b139611770ac4e692c08438d8022bee9cb8098c1374babeb8f29639b70a858bedd32140a383637158ac9e2be06"
 }

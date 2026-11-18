@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.8",
-  "notes": "Sifirdan kurulum duzeltmeleri: uygulama icinden Git, Claude Code ya da Node kurulunca uygulamayi yeniden acmadan bulunur; Motorlar'da kurulu Git surumu gorunur; Roller tablosunda varsayilan beceriler dolu; Hafiza haritasinda etiketler ust uste binmez; ekranlardaki metinler Turkce harfli; sihirbazin son adimi sadelesti.",
-  "pub_date": "2026-11-18T01:39:30.459880100+00:00",
+  "version": "0.9.0-D.9",
+  "notes": "Commit edilmemis dosyasi olan projelerde kartlar artik takilmaz; Onayla bekleme nedenini gosterir. Isi bitmis kart bicim yuzunden engele dusmez. Ayni anda iki surum cikarilamaz. Panelde kart durumlari okunur Turkce. 0.8.6/0.8.7 kalanlari.",
+  "pub_date": "2026-11-18T05:18:22.535769400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.8/BYS-Ofis_0.9.0-D.8_x64-setup.exe",
-      "sha256": "137e63050ba9d3a776bb7a57a38fe948f5c5f5e0c81a4cccaa737becffd8bc53",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.8/BYS-Ofis_0.9.0-D.8_x64-portatif.zip",
-      "sha256_zip": "5820bea4f8550cb39d03ea0700a07d30d23ee5a19f61fb4fadf7e1176bd3ae3f"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.9/BYS-Ofis_0.9.0-D.9_x64-setup.exe",
+      "sha256": "085c16e104991a80cc5f6282f850e29df47274f3722ad0d320f8b5ea31ac8fed",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.9/BYS-Ofis_0.9.0-D.9_x64-portatif.zip",
+      "sha256_zip": "1aedf2bec38aeb4905d15bd0f6715380684bfc715b16dd30176b943e642bc861"
     }
   },
   "app": "bysofis",
-  "imza": "56dce01b8c196d2cb2119c74100bc2d4f469202c7f1a58c4ef36009c89d0054b4d7ac22731562216a576351adb77244849b15e620c7b5ad5eee0bbe0f0d0d504"
+  "imza": "6d8c0190d9501f63504b72350d8ece4399781a206b836963ed7b208761bcab0ab94e81a95eb317ca76de494cb7e96cf47446360c2613d63293cd5ef99a076206"
 }

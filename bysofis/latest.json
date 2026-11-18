@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.7",
-  "notes": "Kartlar artik Cloudflare uzerinden esitlenir; panelden (telefondan) kartlari gorup is verebilir, onaylayabilir, durdurabilirsin. Tahta 4 sutun (Bekliyor, Calisiyor, Onay, Bitti; test ve engel alt durum). Sohbet ve kart pencereleri ayri, hep ustte pencereye ayrilabilir; ic ice giren pencereler ve kesik mesaj kutusu duzeldi. Sifirdan kurulum duzeltmeleri (Git tek tikla kurulum, Turkce unvanlar, Roller listesi), hata bildirimi izni ilk kurulumda.",
-  "pub_date": "2026-11-17T23:44:30.632344200+00:00",
+  "version": "0.9.0-D.8",
+  "notes": "Sifirdan kurulum duzeltmeleri: uygulama icinden Git, Claude Code ya da Node kurulunca uygulamayi yeniden acmadan bulunur; Motorlar'da kurulu Git surumu gorunur; Roller tablosunda varsayilan beceriler dolu; Hafiza haritasinda etiketler ust uste binmez; ekranlardaki metinler Turkce harfli; sihirbazin son adimi sadelesti.",
+  "pub_date": "2026-11-18T01:39:30.459880100+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.7/BYS-Ofis_0.9.0-D.7_x64-setup.exe",
-      "sha256": "160a6dc45135f646e18b6616a6a137c3c6491f2e5fcc2a32647fc5b68da5fd9e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.7/BYS-Ofis_0.9.0-D.7_x64-portatif.zip",
-      "sha256_zip": "3142239a54697170954f6a20c416bb86253050b327b594cee3c341e214ccdf25"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.8/BYS-Ofis_0.9.0-D.8_x64-setup.exe",
+      "sha256": "137e63050ba9d3a776bb7a57a38fe948f5c5f5e0c81a4cccaa737becffd8bc53",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.8/BYS-Ofis_0.9.0-D.8_x64-portatif.zip",
+      "sha256_zip": "5820bea4f8550cb39d03ea0700a07d30d23ee5a19f61fb4fadf7e1176bd3ae3f"
     }
   },
   "app": "bysofis",
-  "imza": "04ef79647905b0a906e692a14df485a03e8230c9b1ee5eff5fe005b00515e805f04c796063b65a82fbec6ed98841e5e85c326a829c60fcd0f265827c24f7ea07"
+  "imza": "56dce01b8c196d2cb2119c74100bc2d4f469202c7f1a58c4ef36009c89d0054b4d7ac22731562216a576351adb77244849b15e620c7b5ad5eee0bbe0f0d0d504"
 }

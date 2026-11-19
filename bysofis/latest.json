@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.10",
-  "notes": "Izinli projede ajan STM32 kartlara da kendisi yukler ve debug eder (STM32CubeProgrammer, ST-Link, OpenOCD); sohbette verdigin yukleme izni dogrudan kayda gecer; proje senin verdigin kod klasorunde calisir.",
-  "pub_date": "2026-11-18T11:05:59.262619300+00:00",
+  "version": "0.9.0-D.11",
+  "notes": "Yeni gorunum: tek bina kampus, yeni menu ve ekranlar, pencere duzeni. Kurallar artik uygulamanin icinde ve degistirilemez; ajanlar geri donusu olmayan isler disinda takilmadan kod yazar, derler, cihaza yukler, debug eder. Sistem hatalari kendiliginden bildirilir. Eski kural dosyalari ve kalintilar temizlenir. Hafiza kendiliginden guncellenir; sohbette Turkce karakter; senkron yarida kalmaz; her islemin geri alma dugmesi var.",
+  "pub_date": "2026-11-19T04:06:42.502213800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.10/BYS-Ofis_0.9.0-D.10_x64-setup.exe",
-      "sha256": "a7fff1e64aaa23127e108d10b8837554b08dea8d1ee9fd674e4b4cbf52cef75b",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.10/BYS-Ofis_0.9.0-D.10_x64-portatif.zip",
-      "sha256_zip": "e55907b097d3b36b9de248feec31c61ae1f086a80ebdc7f9c6f8865732e0063e"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.11/BYS-Ofis_0.9.0-D.11_x64-setup.exe",
+      "sha256": "d1da6d35be9f3e744b5ff94d1119dcbb65733fd81a76935b8992fd1bd3073b8e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.11/BYS-Ofis_0.9.0-D.11_x64-portatif.zip",
+      "sha256_zip": "34f4bba7dd5afe563af8cc6328905837685849fa0fc2f47f91a2fb1c0fcde605"
     }
   },
   "app": "bysofis",
-  "imza": "8ccd6d992a70ae93f99e325a4e5ce71c51d6b23620c66faac2e1072b89f607ecce02b5a7df8201ce0bda1956fa45c13742d3ac9a169f6c65e35a5a21ef909407"
+  "imza": "f8eb538ded90ccd4a9964dce23e925183b89aff3a01f315413bad79fe2e798b9e1ee7d870e9404a83bf543acab5f5b2dd181440b66d05678591eef19de6bb20d"
 }

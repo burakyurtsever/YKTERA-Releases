@@ -1,15 +1,15 @@
 {
-  "version": "0.9.0-D.11",
-  "notes": "Yeni gorunum: tek bina kampus, yeni menu ve ekranlar, pencere duzeni. Kurallar artik uygulamanin icinde ve degistirilemez; ajanlar geri donusu olmayan isler disinda takilmadan kod yazar, derler, cihaza yukler, debug eder. Sistem hatalari kendiliginden bildirilir. Eski kural dosyalari ve kalintilar temizlenir. Hafiza kendiliginden guncellenir; sohbette Turkce karakter; senkron yarida kalmaz; her islemin geri alma dugmesi var.",
-  "pub_date": "2026-11-19T04:06:42.502213800+00:00",
+  "version": "0.9.1-D.4",
+  "notes": "Test surumu: uzun gorev metni olan isler (bas ajan gorevleri) Antigravity ve Gemini ile baslamiyordu, duzeltildi; eski surumlerden yeni surume tek adimda gecis koprusu.",
+  "pub_date": "2026-11-22T08:55:09.572854600+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.11/BYS-Ofis_0.9.0-D.11_x64-setup.exe",
-      "sha256": "d1da6d35be9f3e744b5ff94d1119dcbb65733fd81a76935b8992fd1bd3073b8e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.0-D.11/BYS-Ofis_0.9.0-D.11_x64-portatif.zip",
-      "sha256_zip": "34f4bba7dd5afe563af8cc6328905837685849fa0fc2f47f91a2fb1c0fcde605"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.4/BYS-Ofis_0.9.1-D.4_x64-setup.exe",
+      "sha256": "c4eb124647c51a6534f9f2af7a670549c4951a65a727e766a6865e4cc50c70b4",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.4/BYS-Ofis_0.9.1-D.4_x64-portatif.zip",
+      "sha256_zip": "2759fe642d46de656b72e6474b31f8e15bf105a5f43a1243117cd8c8f03a76ef"
     }
   },
   "app": "bysofis",
-  "imza": "f8eb538ded90ccd4a9964dce23e925183b89aff3a01f315413bad79fe2e798b9e1ee7d870e9404a83bf543acab5f5b2dd181440b66d05678591eef19de6bb20d"
+  "imza": "90ab97c792effdd793f2ebca0043713292ad66235a220e380106efe447590f0283945e984518109833e2be4fbebc21a0a5cb690d24fc0a251844e6824097ab0a"
 }

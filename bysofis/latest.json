@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.5",
-  "notes": "R adayi: telefondan ve panelden isi dogru bilgisayara verme; proje devrinde proje dosyalari (BYS Ofis ile sifreli, GitHub, Drive ya da elle); kilometre taslari paralel kartlara bolunur ve beklemeden akar; yeni cihaz onayi imzali ve kodlu; takildi uyarisi duzeltmesi; ajan kapisi siki onaylar.",
-  "pub_date": "2026-11-22T12:13:45.423490700+00:00",
+  "version": "0.9.1-D.6",
+  "notes": "Test surumu: sohbette yonetimin isleri onay yerine kisa ozet; kendiliginden toparlanan takilmalar sohbete dusmez; guncelleme sirasinda durdurma hata sayilmaz; senkron catisma isaretleri kendiliginden onarilir; proje sihirbazi erisilebilirlik.",
+  "pub_date": "2026-11-22T15:14:23.152700200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.5/BYS-Ofis_0.9.1-D.5_x64-setup.exe",
-      "sha256": "40a9774c0418b9c6c2e9977b98a23d578a9628a1ebe5066ae64c7dfd599356b0",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.5/BYS-Ofis_0.9.1-D.5_x64-portatif.zip",
-      "sha256_zip": "210fa2b58ca19e10174ca24e5c5658a0f98a8e573821b3de9237316dad9474be"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.6/BYS-Ofis_0.9.1-D.6_x64-setup.exe",
+      "sha256": "069878223a746d080b2b09f7bd191db335568fc0ed5d2e5ef93d3261aaf8acbd",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.6/BYS-Ofis_0.9.1-D.6_x64-portatif.zip",
+      "sha256_zip": "c32ec2c0b2f427c5c823c9bfa890e58518825e38f717cda62ee1b95afaa1d697"
     }
   },
   "app": "bysofis",
-  "imza": "d1521686a2f426154f404191d353a67905f1ebc043696c01e3667f38a89c4729bdb1dc3b4f988e24902509be7b2d740c63039f1c0ec41bba71045ae7ed6f8c05"
+  "imza": "1f0e6733679419c0fabbe99bb038bd3b94bf687fe7b48badba0d3af701b84ab03b86b98db6d7943c047898fa1d0a8d962d0de7a4983bdf7ddfaad8152488be08"
 }

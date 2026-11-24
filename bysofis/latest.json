@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.7",
-  "notes": "R denemesi: R adayinin icerigi (deneme olarak test kanalinda). Kartlar kullanicinin istegiyle durur/iptal olur, geri alinmaz; yarim kalan is kaldigi yerden surer; isler projenin bilgisayarinda kosar; kilometre taslari rol kartlarina bolunur; ayni bildirim tekrarlanmaz; kart acma hizlandi; duz Turkce ekranlar.",
-  "pub_date": "2026-11-24T04:01:03.310732700+00:00",
+  "version": "0.9.1-D.8",
+  "notes": "R denemesi 2: ikinci bilgisayar formunda klasor ve ad her zaman gorunur, varsayilan veri surucusu sistem surucusu degil; Ayarlar > Klasorler ile yollar sonradan degistirilir; Giris yap ekrani tiklamasi, Onayla tek kaynak, engel rozeti duz Turkce; Git yoksa gercek neden.",
+  "pub_date": "2026-11-24T08:43:14.883531100+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.7/BYS-Ofis_0.9.1-D.7_x64-setup.exe",
-      "sha256": "ee68b28536b064d9fea9f78a35b6ae795ffd524830c9d4d595802c505187f09e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.7/BYS-Ofis_0.9.1-D.7_x64-portatif.zip",
-      "sha256_zip": "e7e2b5dc3bb08cd973af830f9d6a2f81b5349f14e43b62b46b3680b9ed7c36e7"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.8/BYS-Ofis_0.9.1-D.8_x64-setup.exe",
+      "sha256": "3a05de1c254acd22f1679bdf83b86ac09a1cb1ae663d30ac81e50711b61b1679",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.8/BYS-Ofis_0.9.1-D.8_x64-portatif.zip",
+      "sha256_zip": "763a69c98b6c5b72a62d25d8861cbeed13f8898af037f5bc5ac591d6855febb7"
     }
   },
   "app": "bysofis",
-  "imza": "8f9478caca811f3da1487f7e4df21391f4a52e3dfc31759b434405e9f77725d6530964965f851083847b4a8e9453cfa2a56ffb6c2f5e1d8e53005519c842d303"
+  "imza": "adc5a34d6b32e1a3f7b6ee06a22ed72a65546b3332a579ecc750482b51df0548085616230b98bec87edc42057135bb8c3efb030dd22463a43793b84dc6ee2607"
 }

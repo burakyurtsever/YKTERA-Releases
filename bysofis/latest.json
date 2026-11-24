@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.6",
-  "notes": "Test surumu: sohbette yonetimin isleri onay yerine kisa ozet; kendiliginden toparlanan takilmalar sohbete dusmez; guncelleme sirasinda durdurma hata sayilmaz; senkron catisma isaretleri kendiliginden onarilir; proje sihirbazi erisilebilirlik.",
-  "pub_date": "2026-11-22T15:14:23.152700200+00:00",
+  "version": "0.9.1-D.7",
+  "notes": "R denemesi: R adayinin icerigi (deneme olarak test kanalinda). Kartlar kullanicinin istegiyle durur/iptal olur, geri alinmaz; yarim kalan is kaldigi yerden surer; isler projenin bilgisayarinda kosar; kilometre taslari rol kartlarina bolunur; ayni bildirim tekrarlanmaz; kart acma hizlandi; duz Turkce ekranlar.",
+  "pub_date": "2026-11-24T04:01:03.310732700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.6/BYS-Ofis_0.9.1-D.6_x64-setup.exe",
-      "sha256": "069878223a746d080b2b09f7bd191db335568fc0ed5d2e5ef93d3261aaf8acbd",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.6/BYS-Ofis_0.9.1-D.6_x64-portatif.zip",
-      "sha256_zip": "c32ec2c0b2f427c5c823c9bfa890e58518825e38f717cda62ee1b95afaa1d697"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.7/BYS-Ofis_0.9.1-D.7_x64-setup.exe",
+      "sha256": "ee68b28536b064d9fea9f78a35b6ae795ffd524830c9d4d595802c505187f09e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.7/BYS-Ofis_0.9.1-D.7_x64-portatif.zip",
+      "sha256_zip": "e7e2b5dc3bb08cd973af830f9d6a2f81b5349f14e43b62b46b3680b9ed7c36e7"
     }
   },
   "app": "bysofis",
-  "imza": "1f0e6733679419c0fabbe99bb038bd3b94bf687fe7b48badba0d3af701b84ab03b86b98db6d7943c047898fa1d0a8d962d0de7a4983bdf7ddfaad8152488be08"
+  "imza": "8f9478caca811f3da1487f7e4df21391f4a52e3dfc31759b434405e9f77725d6530964965f851083847b4a8e9453cfa2a56ffb6c2f5e1d8e53005519c842d303"
 }

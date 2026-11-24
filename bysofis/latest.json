@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.9",
-  "notes": "Ajanlar ozgur: kart istemi ~27 binden ~3,7 bin karaktere indi; kurallar yalniz sifre, odeme, silme. Cihaza (ESP/STM) yukleme ve debug serbest; yalniz geri donussuz kilit (eFuse/RDP2/OTP) onayli. Kosan karta triyaj/kesme yok; ilerleme olcen tek kosu sagligi karari. Coklu bilgisayar: grup mesajini tek bilgisayar isler, sohbet gecmisi paylasilir, seyrek vault notlari eklenir, Yalniz yolu degistir tum eslemeleri gunceller, dongu ayar degisimini yeniden okur.",
-  "pub_date": "2026-11-24T16:10:14.238581+00:00",
+  "version": "0.9.1-D.10",
+  "notes": "Duzeltme: grup sohbetinde 'Yeni kart ac' secenegi Gemini (Antigravity) ile yazilan plani okuyamiyordu ('plan dosyasinda kartlar dizili JSON yok'). Antigravity secilip modeli verilmeyen kart artik oncelik sirasindaki modeli aliyor (Claude'a dusmuyor).",
+  "pub_date": "2026-11-24T18:40:40.710727800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.9/BYS-Ofis_0.9.1-D.9_x64-setup.exe",
-      "sha256": "85251bf5c96ea7b0f8a3b44d02a1abc39c6ac42decfc9227cfd00cd842c78e14",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.9/BYS-Ofis_0.9.1-D.9_x64-portatif.zip",
-      "sha256_zip": "99864642c129b7ba8c391c58a20ac9a92e98afe8eaede3df7622237ec4e90947"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.10/BYS-Ofis_0.9.1-D.10_x64-setup.exe",
+      "sha256": "502b5efa7fe3d57da3f052931bb9b9b9194927b5044d924702960eff675664ea",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.10/BYS-Ofis_0.9.1-D.10_x64-portatif.zip",
+      "sha256_zip": "642c0b5d04fdb1f3742aa012c5c2f4c91e67810730d55c7677df804299ab6b31"
     }
   },
   "app": "bysofis",
-  "imza": "f6c09ef1d3d49516b29ba30bc4fe13693cfd73ff172aa1e1ef04b74d731173fe2cbf2d22a7d20e3ebaac65a6d47e2c8ec19583565f88cdb253133aef2ae4ca01"
+  "imza": "164db25b47bf0bde6ed5283e15a2c3afca2c29802a8c8bd635d40f95194d7ba2d58db77751e9d502f2fc1e0329b5c940fba0f0dac60e3459cd7b3f95b2771a02"
 }

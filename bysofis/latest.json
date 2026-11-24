@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.10",
-  "notes": "Duzeltme: grup sohbetinde 'Yeni kart ac' secenegi Gemini (Antigravity) ile yazilan plani okuyamiyordu ('plan dosyasinda kartlar dizili JSON yok'). Antigravity secilip modeli verilmeyen kart artik oncelik sirasindaki modeli aliyor (Claude'a dusmuyor).",
-  "pub_date": "2026-11-24T18:40:40.710727800+00:00",
+  "version": "0.9.1-D.11",
+  "notes": "Kart kosusu: Antigravity 15 dk dosya degistirmeyince kosu artik kesilmiyor (okuma, analiz, Sandbox testi). Takilma karari yalniz kosu sagliginda: 45 dk ilerleme yok, ayni sonuc tekrari ya da surec olumu.",
+  "pub_date": "2026-11-24T20:03:31.960928600+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.10/BYS-Ofis_0.9.1-D.10_x64-setup.exe",
-      "sha256": "502b5efa7fe3d57da3f052931bb9b9b9194927b5044d924702960eff675664ea",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.10/BYS-Ofis_0.9.1-D.10_x64-portatif.zip",
-      "sha256_zip": "642c0b5d04fdb1f3742aa012c5c2f4c91e67810730d55c7677df804299ab6b31"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.11/BYS-Ofis_0.9.1-D.11_x64-setup.exe",
+      "sha256": "1626f816103deaf9105ed57414e96b09adb22f4d86f7d2657bf150116343f6de",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.11/BYS-Ofis_0.9.1-D.11_x64-portatif.zip",
+      "sha256_zip": "c4e9f975a91a1b3731505e2389efa24a7e6081c48873c867a20e148fb0fb4e81"
     }
   },
   "app": "bysofis",
-  "imza": "164db25b47bf0bde6ed5283e15a2c3afca2c29802a8c8bd635d40f95194d7ba2d58db77751e9d502f2fc1e0329b5c940fba0f0dac60e3459cd7b3f95b2771a02"
+  "imza": "5b5f0d11e034e4fbdca098c242f85fa228cd8abbe6197b361728de86efd0a34fe15441e26cb47d863ff78427b81b6208514ae1309a6d9f65fd48c83c2ccda20b"
 }

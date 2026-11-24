@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.8",
-  "notes": "R denemesi 2: ikinci bilgisayar formunda klasor ve ad her zaman gorunur, varsayilan veri surucusu sistem surucusu degil; Ayarlar > Klasorler ile yollar sonradan degistirilir; Giris yap ekrani tiklamasi, Onayla tek kaynak, engel rozeti duz Turkce; Git yoksa gercek neden.",
-  "pub_date": "2026-11-24T08:43:14.883531100+00:00",
+  "version": "0.9.1-D.9",
+  "notes": "Ajanlar ozgur: kart istemi ~27 binden ~3,7 bin karaktere indi; kurallar yalniz sifre, odeme, silme. Cihaza (ESP/STM) yukleme ve debug serbest; yalniz geri donussuz kilit (eFuse/RDP2/OTP) onayli. Kosan karta triyaj/kesme yok; ilerleme olcen tek kosu sagligi karari. Coklu bilgisayar: grup mesajini tek bilgisayar isler, sohbet gecmisi paylasilir, seyrek vault notlari eklenir, Yalniz yolu degistir tum eslemeleri gunceller, dongu ayar degisimini yeniden okur.",
+  "pub_date": "2026-11-24T16:10:14.238581+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.8/BYS-Ofis_0.9.1-D.8_x64-setup.exe",
-      "sha256": "3a05de1c254acd22f1679bdf83b86ac09a1cb1ae663d30ac81e50711b61b1679",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.8/BYS-Ofis_0.9.1-D.8_x64-portatif.zip",
-      "sha256_zip": "763a69c98b6c5b72a62d25d8861cbeed13f8898af037f5bc5ac591d6855febb7"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.9/BYS-Ofis_0.9.1-D.9_x64-setup.exe",
+      "sha256": "85251bf5c96ea7b0f8a3b44d02a1abc39c6ac42decfc9227cfd00cd842c78e14",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.9/BYS-Ofis_0.9.1-D.9_x64-portatif.zip",
+      "sha256_zip": "99864642c129b7ba8c391c58a20ac9a92e98afe8eaede3df7622237ec4e90947"
     }
   },
   "app": "bysofis",
-  "imza": "adc5a34d6b32e1a3f7b6ee06a22ed72a65546b3332a579ecc750482b51df0548085616230b98bec87edc42057135bb8c3efb030dd22463a43793b84dc6ee2607"
+  "imza": "f6c09ef1d3d49516b29ba30bc4fe13693cfd73ff172aa1e1ef04b74d731173fe2cbf2d22a7d20e3ebaac65a6d47e2c8ec19583565f88cdb253133aef2ae4ca01"
 }

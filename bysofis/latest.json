@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.13",
-  "notes": "Esitleme: iki bilgisayarin ayni yonetim kaydini yazmasi esitlemeyi durdurmaz; esitlemeyle once inen kart dosyasi birlestirmeyi kilitlemez. Panelden secilen motor/model gecerli kalir. Kanit: ajan isi bitirip (KANIT: TAM) yalniz kabul kutularini isaretlemediyse ve izler dogruysa kutular yonetimce isaretlenir; iptal onerilmez.",
-  "pub_date": "2026-11-25T11:23:36.480167600+00:00",
+  "version": "0.9.1-D.14",
+  "notes": "Esitleme veri kaybi duzeltmesi: cekilemeyen surede agacta kalan eski dosya surumu yeni yazma sanilip commit'lenmez, guncel surum geri yuklenir (kampus, kadro, asama kayitlarinin geri sarilmasi). Donanim kartina esli test karti zorunlu acilmaz; ajan ERC/DRC'yi kendisi kosar.",
+  "pub_date": "2026-11-25T17:44:23.356262700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.13/BYS-Ofis_0.9.1-D.13_x64-setup.exe",
-      "sha256": "2d358e19ef5cd8f2db2da7a3d55b8e73240ba17da15bd755600b150678fcc978",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.13/BYS-Ofis_0.9.1-D.13_x64-portatif.zip",
-      "sha256_zip": "3d829b1a739868c36c41a09bfba32d4d0362595a277452d8e2f42261445cd775"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.14/BYS-Ofis_0.9.1-D.14_x64-setup.exe",
+      "sha256": "254736f4cfe5515062f8e377e5a043b33007448bddf68bf7becd7e4d3c44ef3c",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.14/BYS-Ofis_0.9.1-D.14_x64-portatif.zip",
+      "sha256_zip": "ecd0fa2fcf0c039fe434762a5a61479de51b72e97677e04900865af866b3a53e"
     }
   },
   "app": "bysofis",
-  "imza": "3d0c80a98375c76df9ed3f7b3875ec47bad159faac9d6fd0f65d915cb516333e498c4fec987ea5f79439ea0cb38d7bf7bc9a630eb976342c1885f96453bc0405"
+  "imza": "abc696018faef2cc41f3d98e3e08d452efda25d3df27baaa2838252ae6e9a2bd8dceb5493745f2a6c795e76a5518431963bce05b880303d13e3b53c05783ff01"
 }

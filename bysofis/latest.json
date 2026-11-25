@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.15",
-  "notes": "Ilk is: planlayici sirada acik model yoksa hesapta acik modeli kendisi bulur (yalniz Antigravity, dusuk paket); hata mesaji nedeni ve devam yolunu soyler. Esitleme: nabiz ilk pakette gider, sunucu sinirinda hata vermez; taramadan gecici dusen kart panelde kaybolmaz. Toplu kapi: kod deposu olmayan bilgisayar gereksiz bildirim acmaz.",
-  "pub_date": "2026-11-25T19:00:22.276583200+00:00",
+  "version": "0.9.1-D.16",
+  "notes": "Tek bilgisayarli ofiste sirket kapsami uygulanmaz: sonradan acilan projenin sohbeti gizlenmez (grup bu bilgisayarin kapsami disinda hatasi).",
+  "pub_date": "2026-11-25T20:22:53.364307500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.15/BYS-Ofis_0.9.1-D.15_x64-setup.exe",
-      "sha256": "dfab22b94be6b3593faf99e12dc0a477cd2a867d94decff3dfbc732ad3f20206",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.15/BYS-Ofis_0.9.1-D.15_x64-portatif.zip",
-      "sha256_zip": "ab6db20975b43d3e645c29b93b2ae2c48dc2afb8e713c959f9cb562f9fb594da"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.16/BYS-Ofis_0.9.1-D.16_x64-setup.exe",
+      "sha256": "da8ae65a33d9243f2bca17b317a4b7cb1fa222eeae30dded7b842f4f10b87f1e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.16/BYS-Ofis_0.9.1-D.16_x64-portatif.zip",
+      "sha256_zip": "b1e818c1271c1cfe623e55b6da62e1a0bc3f61ddbc027c361fb0d32dbb64132a"
     }
   },
   "app": "bysofis",
-  "imza": "10ca28fcc022cb29161d104f756fc8b83cc7d14e7d0e072dd7f8cfe51b37fcc88e35b3dc27b901171db7e24f7a957136b9ad2cf73e6b1ade40b5d17915e9a00b"
+  "imza": "7761bcb426ffbe53a688a19f0f8bd6920c38f86ffd365dc82cfa0326196117df8c96320d2e7dc3c7d060f57ad689bb3181de35589a53d8cd7b919b757d924b0d"
 }

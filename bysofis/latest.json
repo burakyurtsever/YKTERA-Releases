@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.11",
-  "notes": "Kart kosusu: Antigravity 15 dk dosya degistirmeyince kosu artik kesilmiyor (okuma, analiz, Sandbox testi). Takilma karari yalniz kosu sagliginda: 45 dk ilerleme yok, ayni sonuc tekrari ya da surec olumu.",
-  "pub_date": "2026-11-24T20:03:31.960928600+00:00",
+  "version": "0.9.1-D.12",
+  "notes": "Birlestirme hatti sadelesti: kart, proje deposu hangi dalda aciksa o dala birlesir; kaydedilmemis dosyalar kaybolmadan tek commit'e alinir; kapi/kural dosyasina dokunan degisiklik artik onaya dusmez (yalniz gizli anahtar dosyalari). Tercih sirasinda Claude yoksa kota dolunca kart Claude'a devrilmez. Esitleme push suresi 60 sn. Hata bildiriminde ad maskesi yalniz tam sozcuk.",
+  "pub_date": "2026-11-25T05:23:51.408607800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.11/BYS-Ofis_0.9.1-D.11_x64-setup.exe",
-      "sha256": "1626f816103deaf9105ed57414e96b09adb22f4d86f7d2657bf150116343f6de",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.11/BYS-Ofis_0.9.1-D.11_x64-portatif.zip",
-      "sha256_zip": "c4e9f975a91a1b3731505e2389efa24a7e6081c48873c867a20e148fb0fb4e81"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.12/BYS-Ofis_0.9.1-D.12_x64-setup.exe",
+      "sha256": "d711e35e97cc2392bc27c155ab66846951e26925262720b3d2e3ca42ce0122ea",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.12/BYS-Ofis_0.9.1-D.12_x64-portatif.zip",
+      "sha256_zip": "f4df9ccc6dc8a5da84e2e5ca13a6a65d8653400c23675ec1bbb4deab74705437"
     }
   },
   "app": "bysofis",
-  "imza": "5b5f0d11e034e4fbdca098c242f85fa228cd8abbe6197b361728de86efd0a34fe15441e26cb47d863ff78427b81b6208514ae1309a6d9f65fd48c83c2ccda20b"
+  "imza": "4d0c024d4cd69d551664c20d1b564b2ce7292b569fd7c2a23a3a844b6a5e21aefc0a9076b78f0438e75a0903f540bb1ff36208cb9ff22024238a57a9bbbac905"
 }

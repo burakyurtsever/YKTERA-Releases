@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.14",
-  "notes": "Esitleme veri kaybi duzeltmesi: cekilemeyen surede agacta kalan eski dosya surumu yeni yazma sanilip commit'lenmez, guncel surum geri yuklenir (kampus, kadro, asama kayitlarinin geri sarilmasi). Donanim kartina esli test karti zorunlu acilmaz; ajan ERC/DRC'yi kendisi kosar.",
-  "pub_date": "2026-11-25T17:44:23.356262700+00:00",
+  "version": "0.9.1-D.15",
+  "notes": "Ilk is: planlayici sirada acik model yoksa hesapta acik modeli kendisi bulur (yalniz Antigravity, dusuk paket); hata mesaji nedeni ve devam yolunu soyler. Esitleme: nabiz ilk pakette gider, sunucu sinirinda hata vermez; taramadan gecici dusen kart panelde kaybolmaz. Toplu kapi: kod deposu olmayan bilgisayar gereksiz bildirim acmaz.",
+  "pub_date": "2026-11-25T19:00:22.276583200+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.14/BYS-Ofis_0.9.1-D.14_x64-setup.exe",
-      "sha256": "254736f4cfe5515062f8e377e5a043b33007448bddf68bf7becd7e4d3c44ef3c",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.14/BYS-Ofis_0.9.1-D.14_x64-portatif.zip",
-      "sha256_zip": "ecd0fa2fcf0c039fe434762a5a61479de51b72e97677e04900865af866b3a53e"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.15/BYS-Ofis_0.9.1-D.15_x64-setup.exe",
+      "sha256": "dfab22b94be6b3593faf99e12dc0a477cd2a867d94decff3dfbc732ad3f20206",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.15/BYS-Ofis_0.9.1-D.15_x64-portatif.zip",
+      "sha256_zip": "ab6db20975b43d3e645c29b93b2ae2c48dc2afb8e713c959f9cb562f9fb594da"
     }
   },
   "app": "bysofis",
-  "imza": "abc696018faef2cc41f3d98e3e08d452efda25d3df27baaa2838252ae6e9a2bd8dceb5493745f2a6c795e76a5518431963bce05b880303d13e3b53c05783ff01"
+  "imza": "10ca28fcc022cb29161d104f756fc8b83cc7d14e7d0e072dd7f8cfe51b37fcc88e35b3dc27b901171db7e24f7a957136b9ad2cf73e6b1ade40b5d17915e9a00b"
 }

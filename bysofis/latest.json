@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.16",
-  "notes": "Tek bilgisayarli ofiste sirket kapsami uygulanmaz: sonradan acilan projenin sohbeti gizlenmez (grup bu bilgisayarin kapsami disinda hatasi).",
-  "pub_date": "2026-11-25T20:22:53.364307500+00:00",
+  "version": "0.9.1-D.17",
+  "notes": "Kurgu duzeltmeleri: hesapta acik olmayan modele dusmez (hazir motorun acik modeli yedek, kota zinciri kesmez); tek bilgisayarda kapsam yok; hata mesajlari nedeni soyler. Esitleme: git kimlik penceresi acilmaz, canli kilit kirilmaz, baska bilgisayardaki karta verilen onay/durdur kaybolmaz, durdurulan kart kendi bilgisayarinda surer. Akis: yonetici sohbetteki onay/kabul/geri gonder/motor istegini uygular; Patrona yalniz sert fren (sifre/odeme/silme/UAC); asama gorev/hakem iptalinde kilitlenmez; gereksiz test/triyaj/Telegram kalkti.",
+  "pub_date": "2026-11-25T22:34:16.111930800+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.16/BYS-Ofis_0.9.1-D.16_x64-setup.exe",
-      "sha256": "da8ae65a33d9243f2bca17b317a4b7cb1fa222eeae30dded7b842f4f10b87f1e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.16/BYS-Ofis_0.9.1-D.16_x64-portatif.zip",
-      "sha256_zip": "b1e818c1271c1cfe623e55b6da62e1a0bc3f61ddbc027c361fb0d32dbb64132a"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.17/BYS-Ofis_0.9.1-D.17_x64-setup.exe",
+      "sha256": "4a6e10d2313b355cc05ecf9c3566285e9ee11fe7cc859ecb47887a56f0faeb09",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.17/BYS-Ofis_0.9.1-D.17_x64-portatif.zip",
+      "sha256_zip": "87a2c32bef4e56d5274890547334b80609436c351514c71c1a6e1b33e39db57c"
     }
   },
   "app": "bysofis",
-  "imza": "7761bcb426ffbe53a688a19f0f8bd6920c38f86ffd365dc82cfa0326196117df8c96320d2e7dc3c7d060f57ad689bb3181de35589a53d8cd7b919b757d924b0d"
+  "imza": "f6e2fd098568f95e6385e548b5bb75863eed551ef64cad1b8206523c8a5a8ab5d00cc1c81d3969af72dcc1c65466f934bab1f4ffdb4949a3df3e04ccb0e4c90b"
 }

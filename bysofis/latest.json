@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.20",
-  "notes": "Kural sadelestirme (Patron kararlari): kart alan disina yazinca, arac yokken, derleme kirmizi kalinca, ajan sessiz kalinca ya da kapi reddedince engele dusmez; ajan cozer, gerekirse yonetici devralir. Kota dolunca kart kendiliginden bekleyip devam eder. Sert fren yalniz para cikan islerde ve cihaz kilidinde; hazirlik isleri asama kilidinde de acilir; karar bekleyen kart beklemez. Butce esigi Claude disi motorla kosan isi durdurmaz; planlayici bilgisayarin motor listesine uyar.",
-  "pub_date": "2026-11-26T16:44:47.789939500+00:00",
+  "version": "0.9.1-D.21",
+  "notes": "Kart kosusu: kucuk isler buyuk derlemeyi beklemez, bekleme sureleri kisaldi, Antigravity kod isini ayri kopyada yapar ve Claude a kacmaz, sinirlar olcumle ayarlanir, uzun oturum ozetlenip taze oturumla surer, uzun ciktilar dosyaya gider. Planlayici soru sormadan varsayimla acar, sohbetten proje acilir, uzun mesaj eke donusur, cagri basina token kaydi. Esitleme cakismayi kendisi cozer, kapali bilgisayarin isi digerine gecer. Kampuste bostaki ajanlar espri yapar. Yeni skill: mobil emulator testi ve diyagram cizimi.",
+  "pub_date": "2026-11-26T22:56:05.915518100+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.20/BYS-Ofis_0.9.1-D.20_x64-setup.exe",
-      "sha256": "5b962e5bead04c07620e7e955cfe175c5f813729168468f5e6a47d331335b314",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.20/BYS-Ofis_0.9.1-D.20_x64-portatif.zip",
-      "sha256_zip": "eedf681eaa032963569a5a8c91c55473bec9d466ba01750845dabfde5da98953"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.21/BYS-Ofis_0.9.1-D.21_x64-setup.exe",
+      "sha256": "b6c474b4888e221c5c3e835e49be4459fea1e625063d20f732ffaf306c648e42",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.21/BYS-Ofis_0.9.1-D.21_x64-portatif.zip",
+      "sha256_zip": "30db1a11c030b23af4a2777524dc8762cd84c28ad1aca117d35aa6921581ae64"
     }
   },
   "app": "bysofis",
-  "imza": "1701d4f9b51751e061319703950df1b34d5ec3f537c8f5265741baa6cc5e520ae71dcd272eca6f39b101dcad6ff03a018e802b000c315728be95ad6c44145a09"
+  "imza": "f384a7b9b44aa7d154525acd85cd33d22ee058b067c1653ead4bc38df259c3a5933143261552f4e05d777f8e793ecd37a5fc757125615cf1d7561ea4ad3d6908"
 }

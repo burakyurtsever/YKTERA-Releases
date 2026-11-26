@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.17",
-  "notes": "Kurgu duzeltmeleri: hesapta acik olmayan modele dusmez (hazir motorun acik modeli yedek, kota zinciri kesmez); tek bilgisayarda kapsam yok; hata mesajlari nedeni soyler. Esitleme: git kimlik penceresi acilmaz, canli kilit kirilmaz, baska bilgisayardaki karta verilen onay/durdur kaybolmaz, durdurulan kart kendi bilgisayarinda surer. Akis: yonetici sohbetteki onay/kabul/geri gonder/motor istegini uygular; Patrona yalniz sert fren (sifre/odeme/silme/UAC); asama gorev/hakem iptalinde kilitlenmez; gereksiz test/triyaj/Telegram kalkti.",
-  "pub_date": "2026-11-25T22:34:16.111930800+00:00",
+  "version": "0.9.1-D.18",
+  "notes": "Duzeltmeler: Patron sohbetteki acik istegi proje asama kapisina takilmaz (kart acilir); asama nedeni sohbette acik yazilir; tasinamayan eski calisma klasoru kenara alinir, kart takilmaz; Claude kota sinirina takilan kosu BYS Ofis hatasi sayilmaz; bilgisayar profilinde izin verilmeyen motor (or. Claude) yedek olarak da secilmez.",
+  "pub_date": "2026-11-26T07:52:53.655025400+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.17/BYS-Ofis_0.9.1-D.17_x64-setup.exe",
-      "sha256": "4a6e10d2313b355cc05ecf9c3566285e9ee11fe7cc859ecb47887a56f0faeb09",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.17/BYS-Ofis_0.9.1-D.17_x64-portatif.zip",
-      "sha256_zip": "87a2c32bef4e56d5274890547334b80609436c351514c71c1a6e1b33e39db57c"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.18/BYS-Ofis_0.9.1-D.18_x64-setup.exe",
+      "sha256": "a28437dc3d5043891f9a966748ac0170d16d57b822b01ae39ce889dd9c92b114",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.18/BYS-Ofis_0.9.1-D.18_x64-portatif.zip",
+      "sha256_zip": "beaf47fdb40b2b32f726e8a98ecb329f8819b0185a3bde9d956af93171202447"
     }
   },
   "app": "bysofis",
-  "imza": "f6e2fd098568f95e6385e548b5bb75863eed551ef64cad1b8206523c8a5a8ab5d00cc1c81d3969af72dcc1c65466f934bab1f4ffdb4949a3df3e04ccb0e4c90b"
+  "imza": "b028dcc0021a7d272b0ef7b0daae0ab30c537403b41008d4f9cfdfc6ca670b955d51dba9fd2a830315b0fbbc02ea71869ccf3a0081c9e55a94a2d1c0ffa0150e"
 }

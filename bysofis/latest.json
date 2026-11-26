@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.19",
-  "notes": "Duzeltmeler: eski calisma klasorunu bir program tutuyorsa (or. onceki iste kurulan MCP koprusu) BYS Ofis o programi kapatip klasoru kenara alir, kart takilmaz; internet kopmasi ve Claude API hatasiyla biten tur BYS Ofis hatasi sayilmaz.",
-  "pub_date": "2026-11-26T10:45:19.786270700+00:00",
+  "version": "0.9.1-D.20",
+  "notes": "Kural sadelestirme (Patron kararlari): kart alan disina yazinca, arac yokken, derleme kirmizi kalinca, ajan sessiz kalinca ya da kapi reddedince engele dusmez; ajan cozer, gerekirse yonetici devralir. Kota dolunca kart kendiliginden bekleyip devam eder. Sert fren yalniz para cikan islerde ve cihaz kilidinde; hazirlik isleri asama kilidinde de acilir; karar bekleyen kart beklemez. Butce esigi Claude disi motorla kosan isi durdurmaz; planlayici bilgisayarin motor listesine uyar.",
+  "pub_date": "2026-11-26T16:44:47.789939500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.19/BYS-Ofis_0.9.1-D.19_x64-setup.exe",
-      "sha256": "f1cf9f3948efc6eb357118ed46fb5be3eb3a4d84157ed75dff04504c65d1071e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.19/BYS-Ofis_0.9.1-D.19_x64-portatif.zip",
-      "sha256_zip": "38f240695debcaf14a4bbf90d57d02c9f84b29786fd17d5d4d3020e5005ce94c"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.20/BYS-Ofis_0.9.1-D.20_x64-setup.exe",
+      "sha256": "5b962e5bead04c07620e7e955cfe175c5f813729168468f5e6a47d331335b314",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.20/BYS-Ofis_0.9.1-D.20_x64-portatif.zip",
+      "sha256_zip": "eedf681eaa032963569a5a8c91c55473bec9d466ba01750845dabfde5da98953"
     }
   },
   "app": "bysofis",
-  "imza": "60ac4b45bbcc0327fdfceb43b61e5594803dc00404ef05bcc56a211ff037360867a3a00ce4a54b7906b1bc02e386d1088ff233fe0f28b5b8903e49701937750f"
+  "imza": "1701d4f9b51751e061319703950df1b34d5ec3f537c8f5265741baa6cc5e520ae71dcd272eca6f39b101dcad6ff03a018e802b000c315728be95ad6c44145a09"
 }

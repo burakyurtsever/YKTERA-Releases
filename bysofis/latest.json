@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.18",
-  "notes": "Duzeltmeler: Patron sohbetteki acik istegi proje asama kapisina takilmaz (kart acilir); asama nedeni sohbette acik yazilir; tasinamayan eski calisma klasoru kenara alinir, kart takilmaz; Claude kota sinirina takilan kosu BYS Ofis hatasi sayilmaz; bilgisayar profilinde izin verilmeyen motor (or. Claude) yedek olarak da secilmez.",
-  "pub_date": "2026-11-26T07:52:53.655025400+00:00",
+  "version": "0.9.1-D.19",
+  "notes": "Duzeltmeler: eski calisma klasorunu bir program tutuyorsa (or. onceki iste kurulan MCP koprusu) BYS Ofis o programi kapatip klasoru kenara alir, kart takilmaz; internet kopmasi ve Claude API hatasiyla biten tur BYS Ofis hatasi sayilmaz.",
+  "pub_date": "2026-11-26T10:45:19.786270700+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.18/BYS-Ofis_0.9.1-D.18_x64-setup.exe",
-      "sha256": "a28437dc3d5043891f9a966748ac0170d16d57b822b01ae39ce889dd9c92b114",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.18/BYS-Ofis_0.9.1-D.18_x64-portatif.zip",
-      "sha256_zip": "beaf47fdb40b2b32f726e8a98ecb329f8819b0185a3bde9d956af93171202447"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.19/BYS-Ofis_0.9.1-D.19_x64-setup.exe",
+      "sha256": "f1cf9f3948efc6eb357118ed46fb5be3eb3a4d84157ed75dff04504c65d1071e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.19/BYS-Ofis_0.9.1-D.19_x64-portatif.zip",
+      "sha256_zip": "38f240695debcaf14a4bbf90d57d02c9f84b29786fd17d5d4d3020e5005ce94c"
     }
   },
   "app": "bysofis",
-  "imza": "b028dcc0021a7d272b0ef7b0daae0ab30c537403b41008d4f9cfdfc6ca670b955d51dba9fd2a830315b0fbbc02ea71869ccf3a0081c9e55a94a2d1c0ffa0150e"
+  "imza": "60ac4b45bbcc0327fdfceb43b61e5594803dc00404ef05bcc56a211ff037360867a3a00ce4a54b7906b1bc02e386d1088ff233fe0f28b5b8903e49701937750f"
 }

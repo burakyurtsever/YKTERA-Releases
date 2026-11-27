@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.23",
-  "notes": "R4 kabul testi duzeltmeleri (33 senaryo). Hizli is: projesiz kucuk isler (ceviri, ozet, belge) ofise yazilinca hemen yapilir, sonuc sohbete dosyayla gelir; yollar bilgisayardan bagimsiz. Ilk kullanim, kurulum sihirbazi ve kaldirici iyilestirmeleri. Guncelleme: eski BYS Ofis surecleri dosyayi tutuyorsa kapatilip kurulur. Disk temizligi kullanimdaki derleme klasorunu silmez.",
-  "pub_date": "2026-11-27T06:44:41.919286100+00:00",
+  "version": "0.9.1-D.24",
+  "notes": "Sohbet kolayliklari ve durum/kota gostergeleri, guncelleme seridi, kapanmayan satir duzeltmesi. Codex CLI motor destegi. Yonetici izni gereken adimlar ekranda sorulur; kart alt surecleri izlenir. Kampus: karakterler kadrodaki gorunusle cizilir, yoneticiler takim elbiseli, daha gercekci ofis. Toplu kapi duzeltmeleri.",
+  "pub_date": "2026-11-27T15:02:43.355154500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.23/BYS-Ofis_0.9.1-D.23_x64-setup.exe",
-      "sha256": "c418c701e030388ef1dc51f241713fcedf2f88c10566153c9a60629b49f6e052",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.23/BYS-Ofis_0.9.1-D.23_x64-portatif.zip",
-      "sha256_zip": "3efde795581241abbc1971b0ed29cabba5523e2d0c554c5c011222bcf2c32f0d"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.24/BYS-Ofis_0.9.1-D.24_x64-setup.exe",
+      "sha256": "66b98f60aa39fdf3e5da6c6bca28a781955c1b40e462373abebecf85790048e8",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.24/BYS-Ofis_0.9.1-D.24_x64-portatif.zip",
+      "sha256_zip": "fc703fd1b24f746fbf4a6730684495535365ac7a1d569e0c083f9264432c42b1"
     }
   },
   "app": "bysofis",
-  "imza": "7fb883e74cbff9ef686b31a17a7be67dd462e7e9f3065eac90c7cf47c14f8d367e34acff3d74291b8f952c971f52d0633449f3c79c11ea10a55d4db9fe318002"
+  "imza": "16c252812e7aa0f1638f53231a25daf87a5ae9a5d6c666f92d41e8f89facad9389e0f8365ae06c4629ec0f77bc8ddba8187f837523444b70a415b8e8535b2404"
 }

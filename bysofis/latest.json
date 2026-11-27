@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.21",
-  "notes": "Kart kosusu: kucuk isler buyuk derlemeyi beklemez, bekleme sureleri kisaldi, Antigravity kod isini ayri kopyada yapar ve Claude a kacmaz, sinirlar olcumle ayarlanir, uzun oturum ozetlenip taze oturumla surer, uzun ciktilar dosyaya gider. Planlayici soru sormadan varsayimla acar, sohbetten proje acilir, uzun mesaj eke donusur, cagri basina token kaydi. Esitleme cakismayi kendisi cozer, kapali bilgisayarin isi digerine gecer. Kampuste bostaki ajanlar espri yapar. Yeni skill: mobil emulator testi ve diyagram cizimi.",
-  "pub_date": "2026-11-26T22:56:05.915518100+00:00",
+  "version": "0.9.1-D.22",
+  "notes": "Butce arac basina: Claude, Antigravity ve Codex icin ayri yuzde ve esik, seritte uc gosterge; dolan aracin yerine digeri kullanilir, sohbet durmaz. Yalniz Claude kurulumunda kod ve arastirma Sonnet ile yapilir, Ayarlarda tasarruf modu var; skill ve ajanlar kullanicinin genel Claude klasorune kurulmaz. Yeni skill: video klip uretimi. Toplu test kapisinda kucuk duzeltmeler.",
+  "pub_date": "2026-11-27T03:34:46.201428500+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.21/BYS-Ofis_0.9.1-D.21_x64-setup.exe",
-      "sha256": "b6c474b4888e221c5c3e835e49be4459fea1e625063d20f732ffaf306c648e42",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.21/BYS-Ofis_0.9.1-D.21_x64-portatif.zip",
-      "sha256_zip": "30db1a11c030b23af4a2777524dc8762cd84c28ad1aca117d35aa6921581ae64"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.22/BYS-Ofis_0.9.1-D.22_x64-setup.exe",
+      "sha256": "a9fc8f38c745a92772ada33047ba3d846dee995543d4948cff14396f11ade32e",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.22/BYS-Ofis_0.9.1-D.22_x64-portatif.zip",
+      "sha256_zip": "8f0ffab43aa05c1b8a58c7653e622d8d718141adb2edbc7385485b67cf3a4d03"
     }
   },
   "app": "bysofis",
-  "imza": "f384a7b9b44aa7d154525acd85cd33d22ee058b067c1653ead4bc38df259c3a5933143261552f4e05d777f8e793ecd37a5fc757125615cf1d7561ea4ad3d6908"
+  "imza": "9e052e416aa32b202648b4e910bd27baf11498fcca4ca9cc5bd08fddc06461b9bd4ae79b5c12ada41f15667c2bd5729ee330a90d91f21b268f49a082a1fd4102"
 }

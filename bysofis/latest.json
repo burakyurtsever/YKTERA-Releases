@@ -1,15 +1,15 @@
 {
-  "version": "0.9.1-D.22",
-  "notes": "Butce arac basina: Claude, Antigravity ve Codex icin ayri yuzde ve esik, seritte uc gosterge; dolan aracin yerine digeri kullanilir, sohbet durmaz. Yalniz Claude kurulumunda kod ve arastirma Sonnet ile yapilir, Ayarlarda tasarruf modu var; skill ve ajanlar kullanicinin genel Claude klasorune kurulmaz. Yeni skill: video klip uretimi. Toplu test kapisinda kucuk duzeltmeler.",
-  "pub_date": "2026-11-27T03:34:46.201428500+00:00",
+  "version": "0.9.1-D.23",
+  "notes": "R4 kabul testi duzeltmeleri (33 senaryo). Hizli is: projesiz kucuk isler (ceviri, ozet, belge) ofise yazilinca hemen yapilir, sonuc sohbete dosyayla gelir; yollar bilgisayardan bagimsiz. Ilk kullanim, kurulum sihirbazi ve kaldirici iyilestirmeleri. Guncelleme: eski BYS Ofis surecleri dosyayi tutuyorsa kapatilip kurulur. Disk temizligi kullanimdaki derleme klasorunu silmez.",
+  "pub_date": "2026-11-27T06:44:41.919286100+00:00",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.22/BYS-Ofis_0.9.1-D.22_x64-setup.exe",
-      "sha256": "a9fc8f38c745a92772ada33047ba3d846dee995543d4948cff14396f11ade32e",
-      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.22/BYS-Ofis_0.9.1-D.22_x64-portatif.zip",
-      "sha256_zip": "8f0ffab43aa05c1b8a58c7653e622d8d718141adb2edbc7385485b67cf3a4d03"
+      "url": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.23/BYS-Ofis_0.9.1-D.23_x64-setup.exe",
+      "sha256": "c418c701e030388ef1dc51f241713fcedf2f88c10566153c9a60629b49f6e052",
+      "url_zip": "https://github.com/burakyurtsever/YKTERA-Releases/releases/download/bysofis-v0.9.1-D.23/BYS-Ofis_0.9.1-D.23_x64-portatif.zip",
+      "sha256_zip": "3efde795581241abbc1971b0ed29cabba5523e2d0c554c5c011222bcf2c32f0d"
     }
   },
   "app": "bysofis",
-  "imza": "9e052e416aa32b202648b4e910bd27baf11498fcca4ca9cc5bd08fddc06461b9bd4ae79b5c12ada41f15667c2bd5729ee330a90d91f21b268f49a082a1fd4102"
+  "imza": "7fb883e74cbff9ef686b31a17a7be67dd462e7e9f3065eac90c7cf47c14f8d367e34acff3d74291b8f952c971f52d0633449f3c79c11ea10a55d4db9fe318002"
 }
